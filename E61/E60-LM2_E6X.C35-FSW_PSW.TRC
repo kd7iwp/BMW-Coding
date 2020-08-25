@@ -1,0 +1,2733 @@
+PWM_ANST_FL_BIXENON
+	wert_03
+NORM_LEUCHTWEITE
+	wert_01
+	wert_04
+	wert_11
+	wert_16
+MAX_SW_SCHWENK_W_INNEN
+	wert_01
+	wert_04
+	wert_07
+	wert_10
+	wert_11
+	wert_12
+	wert_16
+MAX_SW_SCHWENK_W_AUSSEN
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_10
+	wert_12
+	wert_14
+	wert_15
+	wert_16
+	wert_18
+MAX_SW_SCHWENK_V_HORIZ
+	wert_05
+	wert_06
+	wert_09
+	wert_13
+	wert_14
+	wert_15
+	wert_17
+	wert_18
+	wert_19
+	wert_20
+MAX_SW_SCHWENK_V_VERTI
+	wert_01
+	wert_04
+	wert_07
+	wert_11
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+	wert_17
+	wert_18
+	wert_19
+	wert_20
+	wert_21
+	wert_22
+TAU_ABSCHWAECHUNG
+	wert_05
+	wert_06
+	wert_17
+	wert_18
+	wert_19
+	wert_20
+LICHTZ_R_L_FAKTOR
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_17
+	wert_18
+	wert_19
+	wert_20
+SW_NULL_BEREICH
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_LO_SW_MITLENKEN
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_HI_SW_MITLENKEN
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+C_METER_NACH_INNEN_HI
+	wert_01
+	wert_04
+	wert_11
+	wert_16
+V_LO_SW_NACH_INNEN
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_HI_SW_NACH_INNEN
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+KENNL_MAX_UEBERST
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+KENNL_REDUZ_MAX_SCHWENK
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+T_FILTER_UEBERST
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_LO_AENDER_LENK_UEBERS
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_HI_AENDER_LENK_UEBERS
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+T_FILTER_V_VEH
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_LO_RED_SCHWENK_W
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_HI_RED_SCHWENK_W
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+ABSCHW_D_TAU_LO
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+ABSCHW_D_TAU_HI
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_LO_ABSCHW_D_TAU
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_HI_ABSCHW_D_TAU
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+ABSCHWAECH_D_TAU
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_REFERENZLAUF_EN
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+MIN_SW_SCHWENK_V_HORIZ
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+AEND_V_SCHWENK_N_AUSSEN
+	wert_05
+	wert_06
+	wert_10
+	wert_12
+	wert_17
+	wert_18
+	wert_19
+	wert_20
+REDUZIERUNG_V_SCHWENK_LO
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_LO_REDUZIER_V_SCHWENK
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_M_LO_REDUZIER_V_SCHWENK
+	wert_19
+	wert_20
+	wert_21
+	wert_22
+REDUZIERUNG_V_SCHWENK_HI
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_M_HI_REDUZIER_V_SCHWENK
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_HI_REDUZIER_V_SCHWENK
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+MAX_VERRINGERUNG_V_SCHW
+	wert_01
+	wert_04
+	wert_07
+	wert_11
+	wert_16
+MIN_DELTA_MAX_VERR
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+MAX_DELTA_KEINE_VERR
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+T_FILTER_LENKWINKEL
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+D_TAU_MITTEL_LENKW
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+T_FILTER_GIERRATE
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+D_TAU_MITTEL_GIERR
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_LO_TAU_GIERRATE
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_HI_TAU_GIERRATE
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+T_F_GIERRATE_DEF
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+SCHW_TAU_LW_GR
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+DRIFT_INKR
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+DRIFT_DEKR
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+DRIFT_SCHWELLE
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+T_FILTER_TAU_LW
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+T_FILTER_DYN_LZ
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+RAUSCH
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+ZEITK_TRIGGER1
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+MERKM_1_MAX
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+MERKM_1_BEGR
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+MERKM_1_INKR
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+MERKM_1_DEKR
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+ALC_KENNLIN_LWR_SENSOR_VO
+	wert_01
+	wert_04
+	wert_11
+	wert_13
+	wert_14
+	wert_20
+	wert_23
+ALC_KENNLIN_LWR_SENSOR_HI
+	wert_01
+	wert_04
+	wert_07
+	wert_13
+	wert_18
+	wert_20
+ALC_DEF_LWR_SENSOR_HI
+	wert_01
+	wert_04
+	wert_07
+	wert_12
+ALC_LWR_NEIGUNG_KONSTANTE
+	wert_01
+	wert_04
+	wert_11
+	wert_18
+ALC_EPSILON_DELTA_AV
+	wert_01
+	wert_04
+	wert_07
+ALC_EPSILON_DELTA_A
+	wert_01
+	wert_04
+ALC_ANHEBUNG_175_KM/H
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_10
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+ALC_ABSENKUNG_10_KM/H
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+	wert_17
+ALC_VMAX_BESCHLEUNIGUNG
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+ALC_VMIN_BESCHLEUNIGUNG
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+ALC_VMAX_BREMSEN
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+	wert_17
+ALC_VMIN_BREMSEN
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+	wert_17
+ALC_SCHW_GRAD_BESCHLEUNIG
+	wert_01
+	wert_04
+	wert_07
+	wert_19
+ALC_SCHW_GRAD_BREMSEN
+	wert_01
+	wert_04
+	wert_07
+	wert_19
+ALC_SCHW_PROP_ABWEICHUNG
+	wert_01
+	wert_04
+	wert_07
+	wert_15
+ALC_DIFFERENZ_MSP_DYN_STA
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+	wert_17
+ALC_DAUER_DYN_NACHFUEHR
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+	wert_17
+ALC_ABTASTRATE_DYN
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+	wert_17
+ALC_MITTELUNGSINTERV_DYN
+	wert_01
+	wert_04
+	wert_07
+	wert_11
+	wert_16
+	wert_17
+ALC_MIN_STEIGUNG_VZ_WECHS
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+	wert_17
+ALC_MITTELUNGSINT_VZ_WECH
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+	wert_17
+ALC_MINDESTANZAHL_VZ_WECH
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+ALC_HOEHENWEG
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+ALC_ABTASTRATE_TREND
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+	wert_17
+ALC_MITTELUNGSINTERV_TREN
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+	wert_17
+ALC_SCHW_TREND
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+ALC_ABWEICHUNG_TREND
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+ALC_NACHLAUF_SCHLECHTWEG
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+	wert_17
+CKM_ALC
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+CKM_ALC_DEF
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+MIN_SW_SCHWENK_V_VERTI
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+KALTUEBERWACHUNG_FL_L
+	aktiv
+KALTUEBERWACHUNG_FL_R
+	aktiv
+KALTUEBERWACHUNG_SL_V_L
+	aktiv
+KALTUEBERWACHUNG_SL_V_R
+	aktiv
+KALTUEBERWACHUNG_NSW_L
+	aktiv
+KALTUEBERWACHUNG_NSW_R
+	aktiv
+KALTUEBERWACHUNG_BLK_V_L
+	aktiv
+KALTUEBERWACHUNG_BLK_V_R
+	aktiv
+KALTUEBERWACHUNG_BLK_H_L
+	nicht_aktiv
+KALTUEBERWACHUNG_BLK_H_R
+	nicht_aktiv
+KALTUEBERWACHUNG_BL_M_1
+	nicht_aktiv
+HEIMLEUCHTEN_FUNKSCHL
+	nicht_aktiv
+KALTUEBERWACHUNG_KZL_L
+	aktiv
+KALTUEBERWACHUNG_KZL_R
+	aktiv
+KALTUEBERWACHUNG_RFS_L
+	aktiv
+MIND_ANZ_ZYKL_TIPP_BLK
+	wert_02
+ALC_ZUSTANDS_AUTOM
+	wert_02
+DEF_HEIMLEUCHTEN_CKM
+	wert_02
+DEF_ZYKL_TIPP_BLK_CKM
+	wert_01
+KALTUEBERWACHUNG_RFS_R
+	aktiv
+WARMUEBERWACHUNG_FL_L
+	aktiv
+WARMUEBERWACHUNG_FL_R
+	aktiv
+WARMUEBERWACHUNG_AL_L
+	aktiv
+WARMUEBERWACHUNG_AL_R
+	aktiv
+WARMUEBERWACHUNG_SL_V_L
+	aktiv
+WARMUEBERWACHUNG_SL_V_R
+	aktiv
+WARMUEBERWACHUNG_NSW_L
+	aktiv
+WARMUEBERWACHUNG_NSW_R
+	aktiv
+WARMUEBERWACHUNG_BLK_V_L
+	aktiv
+WARMUEBERWACHUNG_BLK_V_R
+	aktiv
+WARMUEBERWACHUNG_BLK_H_L
+	aktiv
+WARMUEBERWACHUNG_BLK_H_R
+	aktiv
+WARMUEBERWACHUNG_BL_M_1
+	nicht_aktiv
+WARMUEBERWACHUNG_KZL_L
+	aktiv
+WARMUEBERWACHUNG_KZL_R
+	aktiv
+WARMUEBERWACHUNG_RFS_L
+	aktiv
+WARMUEBERWACHUNG_RFS_R
+	aktiv
+TASTVERH_KL_58G_MIN
+	wert_01
+ZUWACHS_TASTVERH_KL_58G
+	wert_01
+VERHALTEN_UEBERWACHUNG
+	wert_01
+FEHLERMELDUNG_CC_FL_L
+	aktiv
+FEHLERMELDUNG_CC_FL_R
+	aktiv
+FEHLERMELDUNG_CC_AL_L
+	aktiv
+FEHLERMELDUNG_CC_AL_R
+	aktiv
+FEHLERMELDUNG_CC_SL_V_L
+	aktiv
+FEHLERMELDUNG_CC_SL_V_R
+	aktiv
+FEHLERMELDUNG_CC_BLK_V_L
+	aktiv
+FEHLERMELDUNG_CC_BLK_V_R
+	aktiv
+FEHLERMELDUNG_CC_BLK_H_L
+	aktiv
+FEHLERMELDUNG_CC_BLK_H_R
+	aktiv
+ALC_ERR_NSW_ZUSCHALTEN
+	aktiv
+ALC_CC_127_ZUST_5_OFF
+	aktiv
+ALC_CC_AL_OFF
+	nicht_aktiv
+FEHLERMELD_CC_RL_BL_2_L
+	nicht_aktiv
+FEHLERMELD_CC_RL_BL_2_R
+	nicht_aktiv
+FEHLERMELDUNG_CC_KZL_L
+	aktiv
+FEHLERMELDUNG_CC_KZL_R
+	aktiv
+WARNBLK_ENERGY_SAVE_MODE
+	aktiv
+FEHLERMELDUNG_CC_RFS_L
+	aktiv
+FEHLERMELDUNG_CC_RFS_R
+	aktiv
+LEUCHTDICHTE_EXPO
+	nicht_aktiv
+LENKWINKEL_UEBERSCHREITEN
+	wert_01
+LENKWINKEL_UNTERSCHREITEN
+	wert_01
+LENKSTOCK_UMSCHALT_VERZ
+	wert_01
+U_POTI_DIMM_MIN
+	wert_02
+U_POTI_DIMM_DELTA
+	wert_02
+MELDUNG_AENDERUNG_DIMMER
+	wert_01
+POTI_DIMM_INVERS
+	aktiv
+POTI_LWR_INVERS
+	nicht_aktiv
+HEIMLEUCHTEN
+	wert_02
+HEIMLEUCHTEN_VERLAENG
+	nicht_aktiv
+CRASH_58G_EIN
+	aktiv
+BLINKIMPULS_WARNBLK
+	wert_01
+BLINKIMPULS_CRASHBLK
+	wert_01
+WERT_CRASHVERHALTEN
+	wert_01
+CRASH_WARNBLINKEN
+	aktiv
+BFD_1_RL_BL_1_ERSCH_BILD
+	nicht_aktiv
+BFD_1_RL_BL_2_ERSCH_BILD
+	nicht_aktiv
+PWM_ANSTEUERUNG_BL_M_1
+	wert_01
+ALC_ENPRELL_AL_OK
+	wert_01
+SL_V_PARKL_FKT
+	aktiv
+ALC_ENPRELL_AL_NIO
+	wert_01
+RL_BL_1_PO_RL_FKT
+	aktiv
+AUTOM_LICHT_KONTROLLE
+	aktiv
+ALC_DEFEKT_TIMER
+	wert_01
+ALC_EIN_DAEMMERUNGSSTUFE
+	wert_01
+ALC_REF_LAUF_AL_AUS
+	wert_01
+LWR_TREIBER_CODIERUNG_2
+	wert_01
+SIDEMARKER_US
+	aktiv
+ALC_CC_127_ZUST_4_OFF
+	aktiv
+AUTOM_LICHT_ABSCHALTUNG
+	nicht_aktiv
+BI_XENON_BEI_LH
+	aktiv
+TIPP_BLK_LOESCHT_IMMER
+	aktiv
+HEIMLEUCHTEN_ABBRUCH
+	nicht_aktiv
+MAX_BETAETIGUNG_FOMEHO
+	wert_01
+LWR_TESTBETRIEB
+	nicht_aktiv
+LWR_FEHLER_BEWERTUNG
+	wert_02
+LWR_SCHRITTABSTAND_GRENZE
+	wert_01
+LWR_TEMPERATUR_GRENZE
+	grad_-20
+SCHRITTABSTAND_STARTPHASE
+	wert_01
+KEINE_PARKLICHT_FUNKT
+	nicht_aktiv
+FL_ABSCHALT_OPT
+	nicht_aktiv
+HALB/VOLLSCHRITT
+	halbschritt
+U_LWR_POTI_STELLUNG_0
+	wert_01
+U_LWR_POTI_STELLUNG_1
+	wert_01
+U_LWR_POTI_STELLUNG_2
+	wert_01
+BLEND_CHECK_IST_WINKEL
+	aktiv
+BLEND_CHECK_SOLL_WINKEL
+	nicht_aktiv
+SL_V_PO_RL_FKT
+	aktiv
+NOTLAUF_FKT_GESCHW
+	wert_01
+WARNBLK_TASTE_KL58G
+	nicht_aktiv
+LOAD_DUMP_SCHUTZ_AKTIV
+	aktiv
+NOTLAUF_FKT_SCHALTERSTELL
+	aktiv
+LOAD_DUMP_MAX_TIME
+	wert_01
+LOAD_DUMP_PRELL
+	wert_03
+LOAD_DUMP_SCHUTZ_KL58G
+	aktiv
+LOAD_DUMP_DIMM_WERL_BLK
+	wert_01
+BFD_1_BL_M_ERSCH_BILD
+	wert_01
+AL_KL50_SCHUTZ
+	nicht_aktiv
+BFD_1_RL_BL_ERSCH_BILD
+	wert_01
+BFD_1_WEGFALL
+	nicht_aktiv
+BFD_1_MIN_GESCHW
+	wert_01
+BFD_1_THERM_TIMEOUT
+	wert_01
+BFD_1_WERT_AX_RUCK
+	wert_01
+BFD_1_STUFE_DELAY
+	wert_01
+BFD_1_BLINK_FREQ_AUS
+	wert_01
+BFD_1_BLINK_FREQ_EIN
+	wert_01
+BFD_1_ENTPRELL_ABS
+	wert_01
+BFD_1_ENTPRELL_AX
+	wert_01
+BFD_2_THERM_TIMEOUT
+	wert_01
+BFD_2_ALGORITHMUS
+	nicht_aktiv
+BFD_2_RL_BL_1_ERSCH_BILD
+	wert_01
+BFD_2_RL_BL_2_ERSCH_BILD
+	nicht_aktiv
+BFD_2_RL_BL_ERSCH_BILD
+	wert_01
+BFD_2_NSL_ERSCH_BILD
+	nicht_aktiv
+BFD_2_WEGFALL
+	nicht_aktiv
+BFD_2_MIN_GESCHW
+	wert_01
+BFD_2_WERT_AX_RUCK
+	wert_01
+BFD_2_STUFE_DELAY
+	wert_01
+BFD_2_BLINK_FREQ_AUS
+	wert_03
+BFD_2_BLINK_FREQ_EIN
+	wert_03
+BFD_2_ENTPRELL_ABS
+	wert_01
+BFD_2_ENTPRELL_AX
+	wert_01
+RL_BL_BREMSL_FKT
+	aktiv
+STANDKLIMA
+	nicht_aktiv
+RL_BL_2_BREMSL_FKT
+	nicht_aktiv
+ALC_ERR_BLK_FREQ
+	wert_02
+ALC_CC_ALC_ERR_OFF
+	nicht_aktiv
+PROGRAMMPARAM_ALC_SG_1
+	wert_01
+PROGRAMMPARAM_ALC_SG_2
+	wert_01
+CAN_11H
+	nicht_aktiv
+SCHALTER_R_GANG
+	nicht_aktiv
+ABSTELLPOS_SMC
+	nicht_aktiv
+ABSTELLPOS_CUSTOM
+	nicht_aktiv
+ALC_AUSWERT_GRADIENT
+	aktiv
+ALC_AUSWERT_PROP_ABWEICH
+	aktiv
+ALC_EINSCHALTBEDINGUNG
+	wert_01
+ALC_GRADIENT_SCHLECHTWEG
+	nicht_aktiv
+ALC_KLS_ENABLE
+	aktiv
+KLASSIF_LENKM_ENA
+	aktiv
+ALC_SCHW_GRAD_SCHLECHTWEG
+	wert_01
+ALC_SCHWENK_LATCH
+	aktiv
+ALC_SAETT_TIMER_SCHLECHTW
+	aktiv
+ERR_LWR_L_IGNORIEREN
+	nicht_aktiv
+ERR_LWR_R_IGNORIEREN
+	nicht_aktiv
+ERR_SCHWENK_R_IGNORIEREN
+	nicht_aktiv
+IK_BUS_TEILNEMER
+	nicht_aktiv
+KLS_BEI_AL_AKTIV
+	nicht_aktiv
+KEINE_L_R_SYNCHRONISATION
+	nicht_aktiv
+KLASSIF_UEBERST_ENA
+	aktiv
+OHNE_GIERRATE
+	nicht_aktiv
+KLASSIF_DRIFT_ENA
+	aktiv
+ERR_SCHWENK_L_IGNORIEREN
+	nicht_aktiv
+LWR_ABSTELLPOS
+	wert_01
+TASTVERH_BEL_WBL_MIN
+	wert_02
+KALTUEBERWACHUNG_BL_L
+	aktiv
+KALTUEBERWACHUNG_BL_R
+	aktiv
+KALTUEBERW_RL_BL_1_L
+	nicht_aktiv
+KALTUEBERW_RL_BL_1_R
+	nicht_aktiv
+WARMUEBERWACHUNG_BL_L
+	aktiv
+WARMUEBERWACHUNG_BL_R
+	aktiv
+WARMUEBERW_RL_BL_1_L
+	nicht_aktiv
+WARMUEBERW_RL_BL_1_R
+	nicht_aktiv
+FEHLERMELDUNG_CC_BL_L
+	aktiv
+FEHLERMELDUNG_CC_BL_R
+	aktiv
+FEHLERMELD_CC_RL_BL_1_L
+	aktiv
+FEHLERMELD_CC_RL_BL_1_R
+	aktiv
+ZUWACHS_TASTVERH_WBL_BEL
+	wert_02
+RL_BL_PARKL_FKT
+	nicht_aktiv
+PWM_ANST_RL_BL_2_BL
+	wert_01
+PWM_ANST_RL_BL_1_BL
+	wert_07
+BFD_1_ALGORITHMUS
+	aktiv
+TAGFAHRLICHT_ECE
+	aktiv
+DEF_TAGFAHRLICHT_ECE_CKM
+	aktiv
+LWR_ANSTEUERN
+	nicht_aktiv
+ALC_FAHRZEUG
+	aktiv
+UMSCHALTOPT_LICHTSCHALTER
+	aktiv
+XENON_AL_VERBAUT
+	aktiv
+KALTUEBERWACHUNG_AL_L
+	nicht_aktiv
+KALTUEBERWACHUNG_AL_R
+	nicht_aktiv
+LWR_HYSTERESE_START
+	wert_02
+LWR_VORBESTROMUNG
+	wert_02
+XENON_LI
+	wert_01
+	wert_02
+KALTUEBERW_RL_BL_2_L
+	nicht_aktiv
+KALTUEBERW_RL_BL_2_R
+	nicht_aktiv
+WARMUEBERW_RL_BL_2_L
+	nicht_aktiv
+WARMUEBERW_RL_BL_2_R
+	nicht_aktiv
+QUITT_BLK_SICHERN
+	nicht_aktiv
+QUITT_BLK_ENTSICHERN
+	nicht_aktiv
+DEF_QUITT_BLK_ENTSI_CKM
+	nicht_aktiv
+DEF_QUITT_BLK_SICH_CKM
+	nicht_aktiv
+RECHTSVERKEHR
+	aktiv
+LINKSVERKEHR
+	nicht_aktiv
+FL_UND_NSW_NICHT_GLEICHZ
+	aktiv
+BFD_1_WERT_AX_EIN
+	wert_02
+	wert_03
+KALTUEBERWACHUNG_NSL_L
+	aktiv
+KALTUEBERWACHUNG_NSL_R
+	aktiv
+WARMUEBERWACHUNG_NSL_L
+	aktiv
+WARMUEBERWACHUNG_NSL_R
+	aktiv
+BFD_2_BL_M_ERSCH_BILD
+	wert_01
+FEHLERMELDUNG_CC_NSL_L
+	aktiv
+FEHLERMELDUNG_CC_NSL_R
+	aktiv
+BFD_2_WERT_AX_EIN
+	wert_01
+BFD_1_NSL_ERSCH_BILD
+	wert_01
+LENK_UEBERSETZUNG
+	wert_01
+	wert_02
+	wert_05
+	wert_06
+	wert_15
+	wert_25
+LENK_UEBERSETZUNG_LO
+	wert_01
+	wert_02
+	wert_05
+	wert_06
+	wert_07
+	wert_08
+	wert_09
+	wert_10
+	wert_11
+	wert_14
+	wert_15
+	wert_16
+	wert_17
+	wert_18
+	wert_19
+	wert_20
+WINKEL_BLENDUNG
+	wert_02
+ALC_LWR_VORZEICHEN
+	aktiv
+CHECK_FGN_SMC_ALC_OFF
+	aktiv
+COMFORT_ACCESS_LICHT
+	aktiv
+CHECK_SMC_ERROR
+	aktiv
+BFD_1_DEAKTIV_BEI_NSL
+	aktiv
+BEHOERDEN_FZG
+	nicht_aktiv
+BEHRD_FZG_ASYNCHRON_BLK
+	nicht_aktiv
+DUAL_SP__AL_L
+	nicht_aktiv
+DUAL_SP__AL_R
+	nicht_aktiv
+DUAL_SP__FL_L
+	aktiv
+DUAL_SP__FL_R
+	aktiv
+DUAL_SP__KZL_L
+	aktiv
+DUAL_SP__KZL_R
+	aktiv
+DUAL_SP__NSL_L
+	nicht_aktiv
+DUAL_SP__NSL_R
+	nicht_aktiv
+DUAL_SP__NSW_L
+	aktiv
+DUAL_SP__NSW_R
+	aktiv
+DUAL_SP__SL_V_L
+	aktiv
+DUAL_SP__SL_V_R
+	aktiv
+DUAL_SP_PARAMETER
+	wert_01
+GESCHW_DOWN
+	wert_01
+	wert_02
+GESCHW_UP
+	wert_01
+	wert_02
+PROZENT_EE
+	wert_01
+PWM_ANSTEUERUNG_NSW
+	wert_01
+QUITT_BLK_IGNORE_MOTORH
+	aktiv
+ALC_SCHWENK_BEI_S_FLC
+	nicht_aktiv
+FLC_OHNE_RLS
+	nicht_aktiv
+UNTERDRUECK_BL_BLITZEN
+	aktiv
+TIPP_BLK_ABBRUCH
+	aktiv
+TIPP_BLK_ABBRUCH_IMMER
+	aktiv
+QUITT_BLK_ZU_CHECK_1
+	aktiv
+SMART_BEAM
+	nicht_aktiv
+IBUS_R_GANG
+	nicht_aktiv
+FL_ASSIST_FUNKTIONS_ANZ
+	nicht_aktiv
+LWR_TERMO_MODEL_EIN
+	aktiv
+HECKD_REV_BLK_DOPPELB
+	aktiv
+HECKDECK_REVERS_BLK
+	wert_01
+ALC_NSW_BEDIEN_MOEGL
+	aktiv
+CC_MELD_SW_CI_NOT_AKTIV
+	nicht_aktiv
+CI_KODIERDATEN
+	wert_01
+FL_ASSIST_CC_NOT_AKTIV
+	aktiv
+FL_ASSIST_ZUST_22_32
+	nicht_aktiv
+NEUE_FAHRT_BEI_SICHERN
+	aktiv
+NEUE_FAHRT_BEI_SLEEP
+	aktiv
+NEUE_FAHRT_KL_15_NACHL
+	nicht_aktiv
+ALC_FAILSAVE_AHL
+	nicht_aktiv
+FL_AUS_BEI_BIX_IN_S_FLC
+	nicht_aktiv
+FSP_MASKIERUNG
+	wert_01
+ISP_MASKIERUNG
+	wert_01
+LS_UMSCHALT_FEHLER_ZEIT
+	wert_01
+ABBIEGELICHT_CKM_0
+	aktiv
+ABBIEGELICHT_CKM_1
+	aktiv
+ABBIEGELICHT_CKM_2
+	aktiv
+ABBIEGELICHT_CKM_3
+	aktiv
+ABK_KNICK
+	wert_01
+ABK_MIN_PROZ
+	wert_01
+ABK_VERLAENG
+	wert_01
+ABSCHALTUNG_RFS_1
+	wert_01
+	wert_02
+ABSCHW_D_TAU_HI_SP
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+ABSCHW_D_TAU_LO_SP
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+ABSCHWAECH_D_TAU_SP
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+AEND_V_SCHWENK_N_AUSSE_SP
+	wert_05
+	wert_06
+	wert_09
+	wert_10
+	wert_12
+	wert_13
+	wert_14
+	wert_17
+	wert_18
+	wert_19
+	wert_20
+AHL_MODE_CKM_0
+	wert_01
+AHL_MODE_CKM_1
+	wert_01
+AHL_MODE_CKM_2
+	wert_01
+AHL_MODE_CKM_3
+	wert_01
+ALC_ERR_BLK_AL_EIN
+	aktiv
+ALC_SCHWENK_IM_STAND
+	aktiv
+BFD_2_DEAKTIV_BEI_NSL
+	nicht_aktiv
+CC_MELD_NSL_BFD
+	aktiv
+CC_MELD_NSL_SL
+	nicht_aktiv
+DEF_ABBIEGELICHT_CKM
+	aktiv
+DEF_AHL_MODE_CKM
+	wert_01
+DEF_SMART_BEAM_CKM
+	nicht_aktiv
+DEF_WELCOMELIGHT_CKM
+	aktiv
+DUAL_SP__BL_L
+	nicht_aktiv
+DUAL_SP__BL_M_1
+	nicht_aktiv
+DUAL_SP__BL_R
+	nicht_aktiv
+DUAL_SP__BLK_H_L
+	nicht_aktiv
+DUAL_SP__BLK_H_R
+	nicht_aktiv
+DUAL_SP__BLK_V_L
+	nicht_aktiv
+DUAL_SP__BLK_V_R
+	nicht_aktiv
+DUAL_SP__RFS_L
+	nicht_aktiv
+DUAL_SP__RFS_R
+	nicht_aktiv
+DUAL_SP__RL_BL_1_L
+	nicht_aktiv
+DUAL_SP__RL_BL_1_R
+	nicht_aktiv
+DUAL_SP__RL_BL_2_L
+	nicht_aktiv
+DUAL_SP__RL_BL_2_R
+	nicht_aktiv
+EINLENKEN_RKW
+	nicht_aktiv
+ENTGEGENGES_RKW
+	nicht_aktiv
+FEHLERMELDUNG_CC_BL_M_2
+	nicht_aktiv
+FEHLERMELDUNG_CC_SML_L
+	nicht_aktiv
+FEHLERMELDUNG_CC_TFL_L
+	aktiv
+FEHLERMELDUNG_CC_TFL_R
+	aktiv
+FSP_ISP_SPERREN_1
+	wert_00
+GETRIEBE_HANDSCHALTER
+	aktiv
+HEIMLEUCHTEN_1
+	wert_02
+HEIMLEUCHTEN_2
+	wert_02
+HEIMLEUCHTEN_3
+	wert_02
+HEIMLEUCHTEN_ENABLE
+	aktiv
+HEIZ_ANF
+	wert_01
+HEIZ_KNICK
+	wert_01
+KALTUEBERWACHUNG_TFL_L
+	aktiv
+KALTUEBERWACHUNG_TFL_R
+	aktiv
+KENNL_MAX_UEBERST_SP
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+KENNL_REDUZ_MAX_SCHWEN_SP
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+KURZSCHL_WIERHOL_ZAEHLER
+	wert_01
+KURZSCHLUSS_CHECK_DISA
+	wert_01
+KURZSCHLUSS_CHECK_TIME
+	wert_01
+KURZSCHLUSS_ENTPRELL
+	wert_01
+LENK_UEBERSETZUNG_LO_SP
+	wert_01
+	wert_02
+	wert_05
+	wert_06
+	wert_07
+	wert_08
+	wert_09
+	wert_10
+	wert_11
+	wert_14
+	wert_15
+	wert_16
+	wert_17
+	wert_18
+	wert_19
+	wert_20
+MAX_DELTA_KEINE_VERR_SP
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+MAX_HEIZZEIT
+	wert_01
+	wert_03
+	wert_04
+	wert_05
+MAX_VERRINGERUNG_V_SCH_SP
+	wert_01
+	wert_04
+	wert_07
+	wert_11
+	wert_16
+MIN_DELTA_MAX_VERR_SP
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+MIN_SW_SCHWENK_V_HORIZ_SP
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+MIND_ANZ_ZYKL_TIPP_BLK_1
+	wert_01
+MIND_ANZ_ZYKL_TIPP_BLK_2
+	wert_02
+MIND_ANZ_ZYKL_TIPP_BLK_3
+	wert_02
+NACHL_RKW
+	wert_01
+NO_BLK_RKW
+	nicht_aktiv
+NSL_BREMSL_FKT
+	nicht_aktiv
+NSL_ERS_DEF_RL_BL_1
+	nicht_aktiv
+NSL_VERBAU_OTP
+	wert_01
+PWM_NSL_ODER_BFD_ALS_BL
+	wert_04
+PWM_SIDEMARKER_BLK_V
+	wert_01
+QUITT_BLK_ENTSICHERN_1
+	nicht_aktiv
+QUITT_BLK_ENTSICHERN_2
+	nicht_aktiv
+QUITT_BLK_ENTSICHERN_3
+	nicht_aktiv
+QUITT_BLK_SICHERN_1
+	nicht_aktiv
+QUITT_BLK_SICHERN_2
+	nicht_aktiv
+QUITT_BLK_SICHERN_3
+	nicht_aktiv
+RAMPE_AUS_BLK
+	wert_01
+RAMPE_AUS_KRV
+	wert_01
+RAMPE_AUS_RUE
+	wert_01
+RAMPE_EIN_BLK
+	wert_01
+RAMPE_EIN_KRV
+	wert_01
+RAMPE_EIN_RUE
+	wert_01
+REDUZIERUNG_V_SCHWE_HI_SP
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+REDUZIERUNG_V_SCHWE_LO_SP
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+SL_BL_ERS_DEF_RL_BL_1
+	nicht_aktiv
+SMART_BEAM_CKM_0
+	nicht_aktiv
+SMART_BEAM_CKM_1
+	nicht_aktiv
+SMART_BEAM_CKM_2
+	nicht_aktiv
+SMART_BEAM_CKM_3
+	nicht_aktiv
+SP_GRENZE
+	wert_01
+START_ABBL
+	wert_01
+SW_NULL_BEREICH_SP
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+T_FILTER_UEBERST_SP
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+T_FILTER_V_VEH_SP
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+TAGFAHRLICHT_ECE_1
+	aktiv
+TAGFAHRLICHT_ECE_2
+	aktiv
+TAGFAHRLICHT_ECE_3
+	aktiv
+TASTVERH_BEL_FLC_LED
+	wert_03
+TAU_ABSCHWAECHUNG_SP
+	wert_05
+	wert_06
+	wert_17
+	wert_18
+	wert_19
+	wert_20
+UNP_ABBIEGELICHT_CKM
+	aktiv
+UNP_AHL_MODE_CKM
+	wert_01
+UNP_HEIMLEUCHTEN_CKM
+	wert_02
+UNP_QUITT_BLK_ENTSI_CKM
+	nicht_aktiv
+UNP_QUITT_BLK_SICH_CKM
+	nicht_aktiv
+UNP_SMART_BEAM_CKM
+	nicht_aktiv
+UNP_TAGFAHRLICHT_ECE_CKM
+	aktiv
+UNP_WELCOMELIGHT_CKM
+	aktiv
+UNP_ZYKL_TIPP_BLK_CKM
+	wert_02
+V_E_HI_BLK
+	wert_01
+V_E_HI_KRV
+	wert_01
+	wert_04
+	wert_07
+V_E_LO_BLK
+	wert_01
+V_E_LO_KRV
+	wert_01
+	wert_04
+	wert_07
+V_HI_ABSCHW_D_TAU_SP
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_HI_AENDER_LENK_UEBER_SP
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_HI_RED_SCHWENK_W_SP
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_HI_REDUZIER_V_SCHWEN_SP
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_HI_SW_MITLENKEN_SP
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_HI_SW_NACH_INNEN_SP
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_LO_ABSCHW_D_TAU_SP
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_LO_AENDER_LENK_UEBER_SP
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_LO_RED_SCHWENK_W_SP
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_LO_REDUZIER_V_SCHWEN_SP
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_LO_SW_MITLENKEN_SP
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_LO_SW_NACH_INNEN_SP
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_M_HI_REDUZIER_V_SCHW_SP
+	wert_01
+	wert_04
+	wert_05
+	wert_06
+	wert_07
+	wert_09
+	wert_10
+	wert_11
+	wert_12
+	wert_13
+	wert_14
+	wert_15
+	wert_16
+V_M_LO_REDUZIER_V_SCHW_SP
+	wert_19
+	wert_20
+	wert_21
+	wert_22
+V_S_HI_BLK
+	wert_01
+V_S_HI_KRV
+	wert_01
+V_S_LO_BLK
+	wert_01
+V_S_LO_KRV
+	wert_01
+WARMUEBERWACHUNG_TFL_L
+	aktiv
+WARMUEBERWACHUNG_TFL_R
+	aktiv
+WELCOMELIGHT_CKM_0
+	aktiv
+WELCOMELIGHT_CKM_1
+	aktiv
+WELCOMELIGHT_CKM_2
+	aktiv
+WELCOMELIGHT_CKM_3
+	aktiv
+ZUWACHS_TASTVERH_FLC_LED
+	wert_03
+DUAL_SP__BLK_2_VL
+	nicht_aktiv
+DUAL_SP__BLK_2_VR
+	nicht_aktiv
+DUAL_SP__SML
+	nicht_aktiv
+DUAL_SP__TFL_L
+	nicht_aktiv
+DUAL_SP__TFL_R
+	nicht_aktiv
+FEHLERMELDUNG_CC_BLK_2_VL
+	aktiv
+FEHLERMELDUNG_CC_BLK_2_VR
+	aktiv
+KALTUEBERWACHUNG_BLK_2_VL
+	aktiv
+KALTUEBERWACHUNG_BLK_2_VR
+	aktiv
+PWM_ANST_1_UNBELEGT
+	wert_01
+WARMUEBERWACHUNG_BLK_2_VL
+	aktiv
+WARMUEBERWACHUNG_BLK_2_VR
+	aktiv
+CBD_ZEICHN_INDEX_1
+	wert_01
+FEHLERMELD_CC_NSW_L
+	aktiv
+FEHLERMELD_CC_NSW_R
+	aktiv
+PWM_ANST_2_UNBELEGT
+	wert_01
+PWM_ANST_3_UNBELEGT
+	wert_01
+BLK_TIMER_STAND
+	wert_01
+HYST_STAND_KRV
+	wert_01
+MAX_SCHWENK_V_H_BEGR
+	wert_09
+	wert_15
+	wert_17
+	wert_18
+	wert_19
+	wert_20
+MAX_SCHWENK_V_H_BEGR_SP
+	wert_13
+	wert_14
+	wert_15
+	wert_17
+	wert_18
+	wert_19
+	wert_20
+PWM_FL_NSW_FKT_ABBLIEGELI
+	wert_01
+SENSEWID_PIN_22_68
+	aktiv
+SENSEWID_PIN_24_39
+	aktiv
+SENSEWID_PIN_30
+	aktiv
+SENSEWID_PIN_42
+	aktiv
+SL_ABSCH_OHNE_ECE
+	aktiv
+TIMEOUT_SET_DTC
+	aktiv
+WELCOME_LIGHT_ACTIVE
+	aktiv
+WL_AL
+	nicht_aktiv
+WL_BLK_H
+	nicht_aktiv
+WL_BLK_V
+	nicht_aktiv
+WL_DAUER
+	wert_01
+WL_FL
+	nicht_aktiv
+WL_KZL
+	soft_einschalten
+WL_MAX_DAUER
+	wert_01
+WL_NSL
+	nicht_aktiv
+WL_NSW
+	nicht_aktiv
+WL_POL
+	aktiv
+WL_SL_1
+	soft_einschalten
+WL_SL_2
+	soft_einschalten
+AUTO_LWR_ENABLE_LM2
+	aktiv
+DYNAM_LWR_ENABLE_LM2
+	aktiv
+ABBL_LZ_RKW
+	wert_01
+ABBL_LZ_STAND
+	wert_01
+BL_2_PARKL_FKT
+	nicht_aktiv
+BL_2_RL_FKT
+	nicht_aktiv
+CC_MELD_AL_OFF
+	nicht_aktiv
+CC_MELD_PARKLICHT
+	aktiv
+DRL_TFL_BLK_V_GED
+	nicht_aktiv
+DRL_TFL_KZL
+	nicht_aktiv
+DRL_TFL_RL_BL
+	nicht_aktiv
+ENDE_ABBL
+	wert_01
+HW_NOTLAUF_CHECK_COUNT
+	wert_02
+HYST_RKW
+	wert_01
+LH_UND_NSW_NICHT_GLEICHZ
+	aktiv
+LICHT_AN_WARN_NORM
+	aktiv
+PWM_ANST_BL_2_SL
+	wert_01
+PWM_ANSTEUERUNG_BL
+	wert_09
+PWM_PIN_22_68_24_39
+	wert_03
+	wert_04
+PWM_PIN_25_40
+	wert_06
+RLS_RESTART_COMM
+	wert_01
+RLS_VERBAUT
+	aktiv
+TIPP_BLK
+	nicht_aktiv
+ABL_AUS_BEI_FL_LH_EIN
+	nicht_aktiv
+BFD_1_BL_2_ERSCH_BILD
+	wert_01
+BFD_2_BL_2_ERSCH_BILD
+	wert_01
+CC_MEL_SL_BEI_DEF_RL_BL_1
+	nicht_aktiv
+DWA_UEBERFALL_ALARM
+	wert_03
+ENERGIE_UBATT_LIMIT
+	wert_01
+ENERGIE_ZEIT_ENTPRELL
+	wert_01
+ENERGIE_ZEIT_LIMIT
+	wert_01
+FSP_LAMPEN_MASK
+	wert_01
+FZG_RADSTAND_LM
+	wert_01
+	wert_04
+	wert_11
+	wert_17
+KALTUEBERWACHUNG_SML
+	nicht_aktiv
+LOAD_DUMP_DIMM_AL
+	aktiv
+LOAD_DUMP_DIMM_BL
+	aktiv
+LWR_MAX_POS_NORM
+	wert_01
+LWR_MAX_POS_REF
+	wert_01
+LWR_OFFSET_PLATTLAUF_L
+	wert_01
+LWR_OFFSET_PLATTLAUF_R
+	wert_01
+NSL_AUS_BEI_FE_MODE
+	nicht_aktiv
+SL_SCHALT_UMSCHALT_OPT
+	wert_01
+STANDVERBRAUCHER_ANMELD
+	aktiv
+VORH_HEIZZ
+	wert_01
+WARMUEBERWACHUNG_SML
+	nicht_aktiv
+WL_MIT_FLC
+	nicht_aktiv
+WL_ZYKLEN
+	wert_01
+ALC_SG_VERBAUT
+	nicht_aktiv
+BL_2_BREMSL_FKT_33
+	aktiv
+CC_MELD_ABIEGL_BEI_DEF_FL
+	aktiv
+DRL_TFL_RL_BL_1_33
+	aktiv
+DRL_TFL_RL_BL_2_33
+	aktiv
+DRL_TFL_SML_33
+	aktiv
+DRL_TFL_TFL_33
+	aktiv
+LWR_ABS_MIN_STELL_2
+	wert_02
+LWR_SCHRITTE_STELL_0
+	wert_03
+LWR_SCHRITTE_STELL_1
+	wert_05
+LWR_SCHRITTE_STELL_2
+	wert_02
+PIN_CONFIGURATION_33
+	wert_02
+PWM_AN_NSL_SL
+	wert_01
+PWM_ANS_RL_BL_2_AL_33
+	wert_06
+PWM_ANS_RL_BL_2_FL_33
+	wert_06
+PWM_ANST_RL_BL_BL_33
+	wert_07
+PWM_ANSTEUERUNG_NSL_33
+	wert_01
+PWM_ANSTEUERUNG_RL_33
+	wert_04
+PWM_FL_FKT_DRL_33
+	wert_03
+PWM_PIN_11_63_33
+	wert_03
+	wert_07
+PWM_RL_BL_1_FKT_PARKL_33
+	wert_03
+	wert_05
+RL_BL_1_BREMSL_FKT_33
+	nicht_aktiv
+RL_BL_1_PARKL_FKT_33
+	aktiv
+RL_BL_2_PARKL_FKT_33
+	aktiv
+RL_BL_2_PO_RL_FKT_33
+	aktiv
+RL_BL_PO_RL_FKT_33
+	nicht_aktiv
+SENSEWID_PIN_04_33
+	nicht_aktiv
+SENSEWID_PIN_05_33
+	aktiv
+SENSEWID_PIN_10_33
+	nicht_aktiv
+SENSEWID_PIN_11_33
+	aktiv
+SENSEWID_PIN_25_33
+	nicht_aktiv
+SENSEWID_PIN_40_33
+	nicht_aktiv
+SENSEWID_PIN_61_33
+	nicht_aktiv
+SENSEWID_PIN_62_33
+	aktiv
+SENSEWID_PIN_63_33
+	aktiv
+SENSEWID_PIN_64_33
+	nicht_aktiv
+SL_PARKL_ABSCH_12H
+	aktiv
+VERHALTEN_DRL_TFL_33
+	drl_s
+PWM_ANSTEUERUNG_SML_33
+	wert_01
+ENABLE_KL_GR_BL
+	nicht_aktiv
+ENABLE_KL_VA
+	aktiv
+PWM_BL1__GR_BL
+	wert_02
+PWM_BL1__KL_BL
+	wert_01
+PWM_BL2__GR_BL
+	wert_02
+ENABLE_RL1_ERS_BL1
+	nicht_aktiv
+IGR_MIT_SL_AL
+	nicht_aktiv
+PWM_ANSTEUERUNG_AL_33
+	wert_01
+PWM_ANSTEUERUNG_KZL_33
+	wert_03
+	wert_04
+PWM_RL1_ERS_BL1
+	wert_01
+WL_BL
+	nicht_aktiv
+WL_SM
+	soft_einschalten
+LWR_MAX_POS_NORM_2
+	wert_01
+LWR_DIAG_ANSTIEG
+	wert_01
+	wert_02
+LWR_DIAG_OFFSET
+	wert_02
+ZEIT_PARKL_AKTIVIERUNG
+	wert_03
+AG_M_ALWR
+	wert_01
+AHL2_ENABLE
+	nicht_aktiv
+ALC_DIS_AUSGL_NICK_GW
+	aktiv
+ALWR_ENABLE
+	nicht_aktiv
+C1_HORI_BF
+	wert_01
+C1_HORI_FA
+	wert_01
+C1_VERT_BF
+	wert_01
+C1_VERT_FA
+	wert_01
+C2_HORI_BF
+	wert_01
+C2_HORI_FA
+	wert_01
+C2_VERT_BF
+	wert_01
+C2_VERT_FA
+	wert_01
+E__HORI_BF
+	wert_01
+E__HORI_FA
+	wert_01
+	wert_02
+E__VERT_BF
+	wert_01
+E__VERT_FA
+	wert_01
+	wert_02
+LWR_DIAG_ANSTIEG_2
+	wert_01
+	wert_02
+LWR_DIAG_OFFSET_2
+	wert_02
+NSW_AUTOBAHN
+	wert_02
+OFFSET_GESCHW
+	wert_02
+REF_DEMO
+	wert_07
+V__HORI_BF
+	wert_01
+V__HORI_FA
+	wert_01
+V__VERT_BF
+	wert_01
+V__VERT_FA
+	wert_01
+VERZ_REF_DEMO
+	wert_01
+	wert_02
+ALC_OFFSET_LWR_34
+	wert_07
+	wert_18
+	wert_19
+E3_HORI_BF
+	wert_01
+E3_HORI_FA
+	wert_01
+E3_VERT_BF
+	wert_01
+E3_VERT_FA
+	wert_01
+F_A_ALWR
+	wert_01
+F_ALWR
+	wert_01
+F_SWEG_ALWR
+	wert_01
+GL_ALWR
+	wert_01
+LWR_HEBEL_34
+	wert_04
+MAX_KRUEMM
+	wert_01
+PWM_AN_BLK_H_34
+	wert_05
+PWM_AN_SL_V_AL_1_34
+	wert_06
+PWM_AN_SL_V_FL_1_34
+	wert_06
+PWM_ANSTEUERUNG_RFS_34
+	wert_05
+	wert_06
+PWM_PIN_05_62_34
+	wert_06
+R_SWEG_ALWR
+	wert_01
+STRST_MAXDIFF_ALWR
+	wert_01
+T_ALWR_AM
+	wert_01
+T_ALWR_AUS
+	wert_01
+T_ALWR_MKR
+	wert_01
+T_ALWR_NST
+	wert_01
+T_ALWR_SW
+	wert_01
+V_ALWR_AM
+	wert_01
+V_ALWR_AN
+	wert_01
+V_ALWR_AUS
+	wert_01
+V_ALWR_BAB1
+	wert_01
+V_ALWR_BAB2
+	wert_01
+V_HI_AUTOB
+	wert_01
+V_HI_STADT
+	wert_01
+V_LO_AUTOB
+	wert_01
+V_LO_STADT
+	wert_01
+V_MID_LANDSTR
+	wert_01
+V_MIN_KRUEMM
+	wert_01
+V_NSW
+	wert_01
+W_ALWR_EKR
+	wert_01
+W_ALWR_MKR
+	wert_01
+W_ALWR_SW
+	wert_01
+WEG_GERADE
+	wert_01
+Z_ALWR_NST
+	wert_01
+Z_ALWR_SW
+	wert_01
+ZEIT_AUTOB
+	wert_01
+PWM_ANSTEUERUNG_FL_34
+	wert_03
+CC_MEL_POL_BEI_DEF_TFL
+	nicht_aktiv
+CC_MEL_SL_BEI_DEF_RL_BL_2
+	nicht_aktiv

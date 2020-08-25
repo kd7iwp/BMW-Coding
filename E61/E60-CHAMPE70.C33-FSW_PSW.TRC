@@ -1,0 +1,609 @@
+K931D_ZV_ALLE_TUEREN
+	par_frei
+K931D_ZV_SELEKTIV
+	par_frei
+K930E_ZV_VER_N_XMIN_FB
+	fkt_frei
+K9901_WARNBLINKEN
+	par_gesperrt
+K9323_ZV_VER_AB_X_KM/H
+	fkt_frei
+K8129_ZWAKO_AC_EIN_AUTO
+	fkt_gesperrt
+K7504_HEIMLEUCHTEN_AUS
+	par_frei
+K7504_HEIMLEUCHTEN_40S
+	par_frei
+K7504_HEIMLEUCHTEN_90S
+	par_frei
+K7504_HEIMLEUCHTEN_150S
+	par_frei
+K7504_HEIMLEUCHTEN_240S
+	par_frei
+K4328_BLINKEN_TIPPBET
+	fkt_frei
+K5303_GAL_SEHR_STARK
+	par_frei
+K8116_KLAPPENAUTOMATIK
+	fkt_gesperrt
+K5303_GAL_STARK
+	par_frei
+K5303_GAL_MITTEL
+	par_frei
+K5303_GAL_GERING
+	par_frei
+K5303_GAL_SEHR_GERING
+	par_frei
+K5303_GAL_KEINE_ANHEB
+	par_frei
+K5305_KLANG_BASS
+	par_frei
+K5305_KLANG_TREBLE
+	par_frei
+K5305_KLANG_BALANCE
+	par_frei
+K5305_KLANG_FADER
+	par_frei
+K5305_KLANG_REVERB
+	par_frei
+K5305_KLANG_EQULIZER
+	par_frei
+K531A_LAUTST_NAV
+	par_frei
+K531A_LAUTST_VERKEHR
+	par_frei
+K531A_LAUTST_TELEFON
+	par_frei
+K531A_LAUTST_SVS
+	par_frei
+K531A_LAUTST_PDC
+	par_frei
+K4310_ANZ_SPRACHE_1
+	par_frei
+K4310_ANZ_SPRACHE_2
+	par_frei
+K4310_ANZ_SPRACHE_3
+	par_frei
+K4110_VERBR_L/100KM
+	par_frei
+K4110_VERBR_MPG_US
+	par_frei
+K4110_VERBR_MPG_UK
+	par_frei
+K4110_VERBR_KM/L
+	par_frei
+K410D_EINHEITEN_WEG
+	fkt_frei
+K4113_ZEIT_STD_DARST
+	fkt_frei
+K4116_EINH_TEMPERATUR
+	fkt_frei
+K9901_UMLUFT_EIN
+	par_frei
+K9901_NAV_LETZER_HINWEIS
+	par_frei
+K9901_KOMFORT_PARKBREMSE
+	par_frei
+K9901_MUTE_EIN
+	par_frei
+K9901_MONITOR_EIN
+	par_frei
+K9901_LENKRADHEIZUNG
+	par_frei
+K9901_RADIO/TELEFON
+	par_frei
+K9901_SWR
+	par_gesperrt
+K430C_DATUM_FORMAT
+	fkt_frei
+C750A_SCHWELLWERT_EMPFIN
+	par_gesperrt
+C750A_SCHWELLWERT_NORMAL
+	par_gesperrt
+C750A_SCHWELLWERT_SEHR_E
+	par_gesperrt
+DRUCK_EINHEIT
+	psi
+K8601_SOLLWERT_M3
+	par_gesperrt
+K8601_SOLLWERT_M2
+	par_gesperrt
+K8601_SOLLWERT_M1
+	par_gesperrt
+K8601_SOLLWERT_0
+	par_gesperrt
+K8601_SOLLWERT_P1
+	par_gesperrt
+K8601_SOLLWERT_P2
+	par_gesperrt
+K8601_SOLLWERT_P3
+	par_gesperrt
+K4D01_OFF_CID_DISPL_HELL
+	fkt_frei
+K4119_DRUCK_BAR
+	par_frei
+K4119_DRUCK_PSI
+	par_frei
+K4119_DRUCK_KPA
+	par_frei
+K8313_GEBLAESE_M10
+	par_gesperrt
+K8313_GEBLAESE_0
+	par_gesperrt
+K8313_GEBLAESE_P10
+	par_gesperrt
+K9901_HUPE
+	par_gesperrt
+C940C_QUITT_OPT_ENTSCH
+	fkt_gesperrt
+C940D_QUITT_OPT_SCHAERF
+	fkt_gesperrt
+C940A_QUITT_OPT_ENTSCH
+	fkt_frei
+C9419_QUITT_OPT_KLAPPE
+	fkt_frei
+C9410_QUITT_OPT_SCHAERF
+	fkt_frei
+C941C_QUITT_AKUST_KLAPPE
+	fkt_frei
+K9416_QUITT_AKUST_ENTSCH
+	fkt_frei
+C9413_QUITT_AKUST_SCHAERF
+	fkt_frei
+K8119_PRG_AUTOMATIK
+	par_gesperrt
+K8119_PRG_LUFTVERTEILUNG
+	par_gesperrt
+K8127_KLAPPENPROGRAMM_BO
+	fkt_frei
+K8119_PRG_GEBL_AKTUELL
+	par_gesperrt
+K8119_PRG_SCHICHTUNG
+	par_gesperrt
+K8119_PRG_AC
+	par_gesperrt
+K8125_KLAPPENPROGRAMM_BO
+	fkt_frei
+K532F_SENDERLISTE_AUDIO
+	fkt_frei
+K4D01_OFF_HUD_DISPL_HELL
+	fkt_gesperrt
+K4D03_ANZEIGE_GESCHWNDGKT
+	par_gesperrt
+K4D03_ANZEIGE_CHECKCONTRL
+	par_gesperrt
+K4D03_ANZEIGE_ACC
+	par_gesperrt
+K4D03_ANZEIGE_TEMPOMAT
+	par_gesperrt
+K4D03_ANZEIGE_NAVIGATION
+	par_gesperrt
+K2407_PDC_MONITORBILD
+	fkt_frei
+CA107_AUT_VERST_DEAKT
+	par_frei
+CA107_AUT_VERST_ENTR
+	par_frei
+CA107_AUT_VERST_ENT_T
+	par_frei
+C9C03_KLAPPENWINKEL
+	fkt_frei
+C9C01_HKL_TASTE
+	fkt_frei
+K931D_SCHEIBENABSENKUNG
+	par_gesperrt
+NIVI
+	nicht_aktiv
+HIGH_CUT
+	auto
+EINH_MASTER
+	aktiv
+CDC
+	aktiv
+MMC
+	nicht_aktiv
+TOP_HIFI
+	aktiv
+EQUALIZER
+	aktiv
+AUDIO_SYSTEM
+	e70_top_hifi
+	e60_top_hifi
+SDARS
+	aktiv
+SHOW_PDC
+	aktiv
+RDC
+	nicht_aktiv
+HUD
+	nicht_aktiv
+MFL_HORN
+	nicht_aktiv
+MFL_CLEAN
+	nicht_aktiv
+FOND_LOW
+	nicht_aktiv
+BAUREIHE
+	e61
+CODIERUNG_ERFOLGT
+	codierung_erfolgt
+TYP_LENKUNG
+	linkslenker
+ACC
+	nicht_aktiv
+WEG_EINHEIT
+	km
+BC_HIGH
+	aktiv
+STANDLUFT
+	aktiv
+DWS
+	aktiv
+PTY_TABELLE
+	pty_us
+WEATHERBAND
+	aktiv
+UNIT_FEET
+	aktiv
+REGIONALISIERUNG
+	reg_aus
+TEMPERATUR_EINHEIT
+	grad_c
+ZEIT_EINHEIT
+	12_stunden
+DATUM_EINHEIT
+	mm_tt_jj
+VERBRAUCH
+	l/100km
+	km/l
+BACKDOOR
+	aktiv
+STANDHEIZUNG
+	nicht_aktiv
+FLAP
+	nicht_aktiv
+PDC_LOW
+	nicht_aktiv
+GALLON_VAL
+	us
+CBS_MODE
+	level_3
+PIA_LEVEL
+	level_1
+DAY_RUN_LIGHT
+	nicht_aktiv
+HDC
+	aktiv
+MDRIVE
+	nicht_aktiv
+MDRIVE_ALBV
+	nicht_aktiv
+MDRIVE_SMG
+	aktiv
+SVS_HIGH
+	nicht_aktiv
+CODIER_CHECK
+	aktiv
+FBMS
+	fbm6
+HANGUL_TYPEWRITER
+	nicht_aktiv
+KANJI_TYPEWRITER
+	nicht_aktiv
+SEATVENTILATION
+	nicht_aktiv
+SITZHEIZUNG_SLIDER
+	nicht_aktiv
+FOND_MID
+	nicht_aktiv
+MANUAL_SHIFT
+	nicht_aktiv
+PIA_MENU
+	wert_00
+ABS_VOL_GONG
+	e70_top_hifi
+	e61_stereo
+ABS_VOL_PDC
+	e70_top_hifi
+	e61_stereo
+	e61_hifi
+ABS_VOL_SRS
+	e70_top_hifi
+ABS_VOL_TA
+	e70_stereo
+	e70_hifi
+	e70_top_hifi
+ABS_VOL_TEL
+	e70_top_hifi
+ACOUSTIC_CHAMP
+	aktiv
+AMBAND_KW_CHAMP
+	nicht_aktiv
+AUDIO_SIGNAL_ROUTING
+	standard
+	e70
+BLUETOOTH_NODES_CHAMP
+	profil_2
+BMW_ASSIST_CHAMP
+	aktiv
+BMW_DEALER_CHAMP
+	aktiv
+BMW_HOTLINE_CHAMP
+	aktiv
+BMW_MOBILE_CHAMP
+	aktiv
+BMW_N_DEALER_CHAMP
+	nicht_aktiv
+BMW_TELESERVICE
+	nicht_aktiv
+CAR_COLOR_CHAMP
+	nicht_aktiv
+CID_CHAMP
+	cid_e60
+DAB_DUALBAND
+	nicht_aktiv
+DAB_TUNER
+	nicht_aktiv
+DELTA_GONG_ENT
+	e70_stereo
+	e70_hifi
+	e70_top_hifi
+DELTA_PDC_ENT
+	e70_stereo
+	e70_hifi
+	e70_top_hifi
+DELTA_SRS_ENT
+	standard
+	e70_top_hifi
+DELTA_TA_ENT
+	standard
+	e70_stereo
+	e70_hifi
+	e70_top_hifi
+DELTA_TEL_ENT
+	standard
+	e70_top_hifi
+DISPLAY_LOG7_SYMBOL_CHAMP
+	nicht_aktiv
+DOUBLE_TUNER_CHAMP
+	aktiv
+ELDRVSEAT_CHAMP
+	aktiv
+ENT_MUTE_ON_CRASH
+	e70
+EXTERIOR_MIRROR_PACKAGE
+	nicht_aktiv
+FADE_MUTE_SOURCE_CHANGE
+	standard
+FAN_HZ_LEVEL1
+	e70
+FAN_HZ_LEVEL2
+	e70
+FAN_HZ_LEVEL3
+	e70
+FAN_VAL1_DOWN
+	e70
+FAN_VAL1_UP
+	e70
+FAN_VAL2_DOWN
+	e70
+FAN_VAL2_UP
+	e70
+FAN_VAL3_DOWN
+	e70
+FAN_VAL3_UP
+	e70
+FBM_COMMUNICATION_CHAMP
+	aktiv
+FBM_ENTERTAINMENT_CHAMP
+	aktiv
+FBM_FMAM_TOGGLE_CHAMP
+	aktiv
+FBM_MODE_TOGGLE_CHAMP
+	aktiv
+FBM_NAVIGATION_CHAMP
+	nicht_aktiv
+KEY_MEMORY_CHAMP
+	aktiv
+LEGAL_DISCL_CHAMP
+	aktiv
+LOGISTIK_CHECK_CHAMP
+	aktiv
+MP3_CHAMP
+	aktiv
+NOAIRVENT_FINE_CHAMP
+	nicht_aktiv
+OCEANTRACE
+	nicht_aktiv
+OFFSET_ENT_GONG
+	standard
+	e70_stereo
+	e70_hifi
+	e70_top_hifi
+OFFSET_ENT_PDC
+	standard
+	e70_stereo
+	e70_hifi
+	e70_top_hifi
+OFFSET_ENT_SRS
+	standard
+	e70_stereo
+	e70_hifi
+	e70_top_hifi
+OFFSET_ENT_TA
+	standard
+	e70_stereo
+	e70_hifi
+	e70_top_hifi
+OFFSET_ENT_TEL
+	standard
+	e70_stereo
+	e70_hifi
+	e70_top_hifi
+PHONE
+	tcu_us_sa639
+RADIO_DIGITAL
+	nicht_aktiv
+RDS_AF_FUNKTION_CHAMP
+	rds_ein_af_aus
+RING_CHAMP
+	aktiv
+SENDER_TAB_HGL_CHAMP
+	nicht_aktiv
+SINGLE_TUNER_CHAMP
+	nicht_aktiv
+SVS_LOW_CHAMP
+	aktiv
+TACTIVE
+	e70
+TIME_DIST_SAME_PRIO
+	e70
+TIME_LAG_IMG
+	e70
+TIME_OUT_GONG
+	e70
+VOL_E_CALL_MAX
+	e70
+VOL_E_CALL_MIN
+	e70
+VOL_SRS_MAX
+	e70_top_hifi
+VOL_SRS_MIN
+	standard
+	e70_stereo
+	e70_hifi
+	e60_top_hifi
+	e61_top_hifi
+	e6x_mit752
+	e63_top_hifi
+	e64_top_hifi
+VOL_TA_MAX
+	e70_top_hifi
+VOL_TA_MIN
+	e70_stereo
+	e70_hifi
+	e70_top_hifi
+VOL_TEL_MAX
+	e70_top_hifi
+VOL_TEL_MIN
+	e70_stereo
+	e70_hifi
+	e60_top_hifi
+	e61_top_hifi
+	e6x_mit752
+	e63_top_hifi
+	e64_top_hifi
+VOLUME_MAX_ON
+	e70_top_hifi
+KLIMA_SG_ART_CHAMP
+	high
+OIL_LEVEL_CHAMP
+	aktiv
+AMBAND_LW_CHAMP
+	nicht_aktiv
+AMBAND_MW_CHAMP
+	aktiv
+LAENDERVAR_TUNER_CHAMP
+	us
+SMS_CHAMP
+	nicht_aktiv
+TOGGLE_AIR_VENT
+	aktiv
+TOGGLE_AUTO_PROG
+	aktiv
+TOGGLE_SEAT_CLIMATE
+	nicht_aktiv
+TP_FUNKTION_CHAMP
+	nicht_aktiv
+DAB_FM_SWITCH_CH
+	nicht_aktiv
+LOUDNESS_CHAMP
+	aktiv
+CBS_LIST
+	aktiv
+CC_LIST
+	aktiv
+CLIMATE_WITHOUT_PREVIEW
+	nicht_aktiv
+ADAPTIVEHEADLIGHT
+	nicht_aktiv
+ALBV_TOGGLE
+	nicht_aktiv
+CORNERINGLIGHT
+	nicht_aktiv
+DKG
+	nicht_aktiv
+EDC
+	nicht_aktiv
+LONGDISTANCELIGHT
+	nicht_aktiv
+MDRIVE_LOW
+	nicht_aktiv
+MMDEVICE
+	aktiv
+MMDEVICE_2
+	nicht_aktiv
+TIME_LINE_CROSSING
+	nicht_aktiv
+WELCOMELIGHT
+	aktiv
+DSC_NO
+	nicht_aktiv
+CRUISE_CTRL_CHAMP
+	aktiv
+AUXIN_CHAMP_31
+	aktiv
+ENTERT_NEXTSOURCE_CHAMP
+	aktiv
+HUD_POSITION
+	nicht_aktiv
+LEGAL_DISCL_TIMEOUT_CH
+	aktiv
+SITZHEIZUNG_CHAMP_31
+	aktiv
+PDC_ADAPTION_F_R_1
+	standard
+	e70_hifi
+	e60_top_hifi
+	e61_top_hifi
+	e61_hifi
+	e6x_mit752
+	e64_top_hifi
+RATIO_AUDIO_SOURCES_1
+	e6x_mit752
+VOL_GONG_MAX_1
+	e6x_mit752
+VOL_GONG_MIN_1
+	e6x_mit752
+VOL_PDC_MAX_1
+	e6x_mit752
+VOL_PDC_MIN_1
+	e70_stereo
+	e61_top_hifi
+	e6x_mit752
+SHOW_PDC_VOL_OFFSET
+	nicht_aktiv
+SPRACHE_1_MASK_CHAMP
+	us
+SPRACHE_2_MASK_CHAMP
+	franzoesisch
+SPRACHE_3_MASK_CHAMP
+	spanisch
+VEHICLE_FINDER
+	nicht_aktiv
+REAR_VIEW_CAM
+	nicht_aktiv
+REG_FUNCTION
+	nicht_aktiv
+STOLEN_VEHICLE_REC
+	aktiv
+TOW_BAR
+	nicht_aktiv
+AUTO_DRV_LIGHT_CHAMP
+	nicht_aktiv
+JUMP_RDC_RPA_MENU_CH
+	aktiv
+PDC_FULL
+	aktiv
+ZBE_RUEKO
+	aktiv

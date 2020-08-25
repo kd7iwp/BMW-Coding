@@ -1,0 +1,146 @@
+VISCOLUEFTER
+	nicht_aktiv
+KENNFELDKUEHLUNG
+	aktiv
+GEBL_ANZEIGE_AUTO
+	nicht_aktiv
+LDA_B_KLIMABEREITSCHAFT
+	aktiv
+PTC_PWM
+	aktiv
+VA_KORRIGIEREN
+	nicht_aktiv
+SCHICHTUNG_RESET
+	nicht_aktiv
+DUAL
+	nicht_aktiv
+ELEKTR_MOTORWASSERPUMPE
+	aktiv
+GLEITENDE_VERDAMPFERTEMP
+	aktiv
+ZUSATZHEIZLEISTUNG
+	aktiv
+GEBL_BEI_OFF
+	nicht_aktiv
+OFF_MEMORY_KEY_1
+	nicht_aktiv
+OFF_MEMORY_KEY_2
+	nicht_aktiv
+OFF_MEMORY_KEY_3
+	nicht_aktiv
+OFF_MEMORY_KEY_4
+	nicht_aktiv
+OFF_MEMORY_KEY_DEFAULT
+	nicht_aktiv
+TEMP_OFFSET
+	aktiv
+GEBL_OFFSET
+	aktiv
+GEBL_OFFSET_DEFAULT
+	nicht_aktiv
+TEMP_OFFSET_DEFAULT
+	nicht_aktiv
+GEBL_OFFSET_KEY1
+	nicht_aktiv
+TEMP_OFFSET_KEY1
+	nicht_aktiv
+GEBL_OFFSET_KEY2
+	nicht_aktiv
+TEMP_OFFSET_KEY2
+	nicht_aktiv
+GEBL_OFFSET_KEY3
+	nicht_aktiv
+TEMP_OFFSET_KEY3
+	nicht_aktiv
+GEBL_OFFSET_KEY4
+	nicht_aktiv
+TEMP_OFFSET_KEY4
+	nicht_aktiv
+GEBL_OFFSET_DEFAULT_KEY
+	nicht_aktiv
+TEMP_OFFSET_DEFAULT_KEY
+	nicht_aktiv
+ABWAHL_AC
+	nicht_aktiv
+E63_E64
+	nicht_aktiv
+LL/RL_KLIMA
+	linkslenker
+KLIMA_SG_ART
+	high
+SOLARSENSOR
+	aktiv
+BESCHLAGSENSOR
+	aktiv
+UMLUFT_MEMORY
+	aktiv
+GRAD_C_GRAD_F_AUSWAHL
+	grad_c
+MOTOR_ART
+	benzin_normal
+	benzin_direkt
+KMV_UEBERSETZUNG
+	n52
+	n54b30
+WASSERPUMPE
+	nicht_aktiv
+UMWAELZPUMPE
+	nicht_aktiv
+ZUHEIZUNG
+	nicht_aktiv
+PTC
+	nicht_aktiv
+E64
+	nicht_aktiv
+STANDHEIZUNG
+	nicht_aktiv
+PSEUDOZUHEIZEN
+	nicht_aktiv
+K_DREHMOMENT
+	nicht_aktiv
+E61
+	aktiv
+AUC_MKIV
+	aktiv
+ALKS
+	nicht_aktiv
+KOMPRESSORKUPPLUNG
+	nicht_aktiv
+GEBL_OFFSET_WS
+	nicht_aktiv
+HELLA_RLSS_CAN
+	aktiv
+LAENDERVARIANTE_IHKA
+	nicht_aktiv
+RESTWAERME
+	aktiv
+TEMP_OFFSET_WS
+	nicht_aktiv
+USA_LV_INDIVIDUAL
+	nicht_aktiv
+ANHEBUNG_VERDAMPFER_MIN
+	nicht_aktiv
+ENTFROSTUNG_ZU_NACH_NEUST
+	wert_00
+KLIMASTIL
+	aktiv
+KLIMASTIL_DEFAULT
+	medium
+KLIMASTIL_DEFAULT_KEY
+	medium
+KLIMASTIL_KEY1
+	soft
+KLIMASTIL_KEY2
+	medium
+KLIMASTIL_KEY3
+	medium
+KLIMASTIL_KEY4
+	soft
+KLIMASTIL_WS
+	medium
+OFF_MEMORY_KEY_WS
+	nicht_aktiv
+SICHERHEITSFAHRZEUG_IHKA
+	nicht_aktiv
+FZE_FORMFAKTOR
+	fze_nicht_aktiv
