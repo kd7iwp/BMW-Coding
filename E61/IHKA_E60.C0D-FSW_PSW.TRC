@@ -3,7 +3,7 @@ VISCOLUEFTER
 KENNFELDKUEHLUNG
 	aktiv
 GEBL_ANZEIGE_AUTO
-	nicht_aktiv
+	aktiv
 LDA_B_KLIMABEREITSCHAFT
 	aktiv
 PTC_PWM
@@ -61,7 +61,7 @@ GEBL_OFFSET_DEFAULT_KEY
 TEMP_OFFSET_DEFAULT_KEY
 	nicht_aktiv
 ABWAHL_AC
-	nicht_aktiv
+	aktiv
 E63_E64
 	nicht_aktiv
 LL/RL_KLIMA
