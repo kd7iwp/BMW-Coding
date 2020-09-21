@@ -1,0 +1,120 @@
+BAUART
+	touring
+FH_FAHRERTUER_TIPP_AUF
+	aktiv
+FH_BEIFAHRERTUER_TIPP_AUF
+	aktiv
+FH_BEIFAHRERTUER_TIPP_ZU
+	aktiv
+FH_FAHRERTUER_TIPP_ZU
+	aktiv
+TYP_LENKUNG
+	linkslenker
+BEIKLAPPEN_B_KOMFORTSCHL
+	nicht_aktiv
+FH_SEQUENZIELL_ZENTRAL
+	nicht_aktiv
+ASP_BEIKLAPPEN
+	aktiv
+ASP_BORDSTEIN
+	aktiv
+ASP_LIN_SPIEGEL
+	aktiv
+ASP_MEMORY
+	aktiv
+ASP_STANDHEIZUNG
+	nicht_aktiv
+FH_COUPE_TUER
+	nicht_aktiv
+FH_USA_REVERSE
+	aktiv
+FKT1_E64
+	nicht_aktiv
+FKT2_E64
+	nicht_aktiv
+GESCHW_WERTE_KOMFORT_KGM
+	wert_09
+GESCHWIN_WERTE_SPORT_KGM
+	wert_01
+STROMWERTE_KOMFORT_KGM
+	wert_09
+STROMWERTE_SPORT_KGM
+	wert_01
+SVT_SCHRITTE
+	wert_01
+FH_RECHTSLENKER
+	nicht_aktiv
+BROSE1
+	wert_01
+	wert_04
+BROSE2
+	wert_01
+	wert_04
+BROSE3
+	wert_01
+	wert_04
+BROSE4
+	wert_01
+	wert_04
+BROSE5
+	wert_01
+	wert_04
+BROSE6
+	wert_01
+	wert_04
+BROSE7
+	wert_01
+	wert_04
+BROSE8
+	wert_01
+	wert_04
+LRA_VERBAUT
+	aktiv
+VORFELDBELEUCHTUNG_KGM
+	aktiv
+SERVOTRONIK_KGM
+	aktiv
+FH_SEQUENZIELL_KOMF_VERD
+	nicht_aktiv
+FH_CCM_259_DENORM
+	aktiv
+FH_CCM_259_PANIC
+	aktiv
+FH_CCM_261
+	aktiv
+FH_EKS_AKTIV
+	aktiv
+FH_PANICMODE_BFT
+	aktiv
+FH_PANICMODE_FAT
+	aktiv
+MAN_MIT_EKS_BFT
+	aktiv
+MAN_MIT_EKS_FAT
+	aktiv
+ANSCHLAG_DELAY
+	wert_01
+ASP_EC_INPUT
+	aktiv
+LWG_LIMIT
+	wert_01
+LWG_WERT_A
+	wert_01
+LWG_WERT_B
+	wert_01
+VX_ANSCHLAGAUS
+	wert_01
+FH_PANICMODE_EKS
+	nicht_aktiv
+FH_E64_VORFREIGABE
+	nicht_aktiv
+SH_BFS
+	nicht_aktiv
+SH_FAS
+	nicht_aktiv
+HS_SPERRE_AKTIV
+	nicht_aktiv
+ANZ_WECKER_BIS_RESET_05
+	wert_01
+MPM_RESET_BEI_WACH_05
+	wert_01
