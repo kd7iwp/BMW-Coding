@@ -1,5 +1,5 @@
 SVS
-	aktiv
+	nicht_aktiv
 RDC
 	nicht_aktiv
 TYP_LENKUNG
@@ -27,7 +27,7 @@ ACC_CIC
 ACC_SGN
 	nicht_aktiv
 ACTIVE_BACKREST_ADJ
-	nicht_aktiv
+	aktiv
 ADRESSBOOK
 	aktiv
 AF_FUNKTION
@@ -67,7 +67,7 @@ ASSIST_VEHICLEFINDER_SHOW
 ASSIST_VI_PLUS
 	aktiv
 AUDIO_SYSTEM_CIC
-	hifi
+	m_individual_sound
 AUX1
 	standard
 AUX2_INTEGRATED_IN_RSE
@@ -75,7 +75,7 @@ AUX2_INTEGRATED_IN_RSE
 AUX4
 	standard
 BACKDOOR_OPENINGANGLE
-	nicht_aktiv
+	aktiv
 BEHANDLUNG_2S_TIMER
 	aktiv
 BRAKE_ASSISTENT
@@ -215,7 +215,7 @@ PORTIERUNG
 RADIO_DAB
 	nicht_aktiv
 RADIO_IBOC
-	aktiv
+	nicht_aktiv
 RADIO_SDARS
 	aktiv
 RADIO_WEATHERBAND
@@ -247,21 +247,21 @@ SYSTEM_GPS_RECEIVER
 SYSTEM_TTS
 	aktiv
 TDA_ASC_STATUS_CIC
-	aktiv
+	nicht_aktiv
 TDA_BDA_STATUS_CIC
-	aktiv
+	nicht_aktiv
 TDA_CFG_SER_ERR_SINK_CIC
 	aktiv
 TDA_DEACTIVATE_STATUS_CIC
-	nicht_aktiv
+	aktiv
 TDA_HLC_STATUS_CIC
-	aktiv
+	nicht_aktiv
 TDA_MSC_STATUS_CIC
-	aktiv
+	nicht_aktiv
 TDA_TDC_STATUS_CIC
 	nicht_aktiv
 TELEX
-	aktiv
+	nicht_aktiv
 TI_CA_TMC
 	nicht_aktiv
 TI_DETOUR_BUTTON_DISABLED
@@ -329,7 +329,7 @@ NIGHTVISION_1
 AUX3_IN_RSE_RIGHT_SCREEN
 	wert_255
 BAUREIHE_CIC
-	e60
+	e61
 CBS_VERSION_3_LOWER
 	aktiv
 CDMM_DVD_AOP_AUTOMATIC
@@ -359,9 +359,9 @@ HDC_CIC
 HU_INTERNAL_VIDEO_PLAYBK
 	wert_51
 HVAC_POPUP_SEATCLIMATE
-	nicht_aktiv
+	aktiv
 HVAC_SEATCLIMATE_LED
-	nicht_aktiv
+	aktiv
 HVAC_SEATHEAT_DISTR_FOND
 	nicht_aktiv
 HVAC_SEATHEAT_DISTR_FRONT
@@ -369,7 +369,7 @@ HVAC_SEATHEAT_DISTR_FRONT
 HVAC_SEATVENTILATION_FOND
 	nicht_aktiv
 HVAC_SEATVENTILATION_FRNT
-	nicht_aktiv
+	aktiv
 HYBRID
 	nicht_aktiv
 IBA
@@ -465,13 +465,13 @@ ACOUSTICAL_LOCK_CONFIRM
 ANTRIEB
 	aktiv
 CDMM_CHANGER_3
-	kein_cdc
+	audio_cdc
 DAB_BAND
 	beide
 EINHEITEN_WEGSTRECKE_3
 	mls_feet
 EMAIL_READ_OUT_BUTTON
-	aktiv
+	nicht_aktiv
 ETC
 	nicht_aktiv
 L6_ZBE_ARBITRATOR
@@ -517,7 +517,7 @@ PHONE_CONFERENCE_CALL
 PHONE_RESPONSE_HOLD
 	nicht_aktiv
 PHONE_SMS_READ_OUT_BUTTON
-	aktiv
+	nicht_aktiv
 RADIO_DAB_VARIANTEN
 	single_tuner_single_hw
 RSE_3
@@ -623,7 +623,7 @@ SDARS_IN_EXBOX
 SECURE_SIMPLE_PAIRING
 	nicht_aktiv
 TDA_CFG_CUST_MOBILE_CIC
-	nicht_aktiv
+	aktiv
 DWA
 	aktiv
 ENABLE_BC2_AUTORESET
@@ -667,7 +667,7 @@ MOMENTDISTRIBUTION_MENU
 RSE_BRIGHTNESS
 	nicht_aktiv
 BAUART_CIC
-	limousine
+	touring
 ROUTEN_ID_GUIDEDTOURS
 	nicht_aktiv
 CDMM_ES_ALBUM_INFO
@@ -809,7 +809,7 @@ PIM_CROSS_USE
 PIM_OVERVIEW
 	aktiv
 PIM_TTS
-	aktiv
+	nicht_aktiv
 PU_0909
 	nicht_aktiv
 CDMM_USB_AUDIO_DOUBLE_0B
@@ -863,9 +863,9 @@ TVC_WIDTH_0C
 TYPE_OF_FUEL_0C
 	alle_kraftstoffe
 TDA_ATM_ACTIVE_CIC_0C
-	aktiv
+	nicht_aktiv
 TDA_CFG_AUTO_TRIG_CIC_0C
-	aktiv
+	nicht_aktiv
 CLIMATE_ACT_ONE_TIMER
 	nicht_aktiv
 MESSAGE_FILTER
@@ -879,7 +879,7 @@ ONLINE_BROWSER_C0D
 PDC_DIRECTION
 	horizontal
 TDA_TSR_INSTANCE_ID_C0D
-	wert_01
+	wert_00
 API_TYPE
 	mulf2_high
 HUD_ACTIVATION
