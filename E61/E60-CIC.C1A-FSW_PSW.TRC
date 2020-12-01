@@ -1,0 +1,1180 @@
+SVS
+	aktiv
+RDC
+	nicht_aktiv
+TYP_LENKUNG
+	linkslenker
+ZYLINDER_ZAHL
+	6_zylinder
+HUD_M
+	nicht_aktiv
+TDA_ATM_CALL_ID
+	standard
+TDA_ATM_INTERVAL
+	standard
+TDA_ATM_START_TIME
+	standard
+TDA_CFG_HLC_DATA
+	nicht_aktiv
+TDA_CFG_IND_PDM_GR_NBR
+	file0
+TDA_CFG_VEHICLE_SER
+	nicht_aktiv
+HUD_POSITION
+	nicht_aktiv
+ACC_CIC
+	nicht_aktiv
+ACC_SGN
+	nicht_aktiv
+ACTIVE_BACKREST_ADJ
+	nicht_aktiv
+ADRESSBOOK
+	aktiv
+AF_FUNKTION
+	af_aus
+AREA_CODE_DVD
+	area_code_1
+ASSIST
+	aktiv
+ASSIST_AKD
+	aktiv
+ASSIST_AUTOMATIC_SERVREQ
+	aktiv
+ASSIST_BCALL
+	aktiv
+ASSIST_ECALL
+	aktiv
+ASSIST_FCD
+	aktiv
+ASSIST_HOTLINE
+	aktiv
+ASSIST_INITIALIZATION
+	aktiv
+ASSIST_MY_INFO
+	aktiv
+ASSIST_REMOTE_DOORLOCK
+	aktiv
+ASSIST_REMOTE_HORNLIGHT
+	nicht_aktiv
+ASSIST_REMOTE_HVAC
+	nicht_aktiv
+ASSIST_SERVREQ
+	aktiv
+ASSIST_SVR_SHOW
+	aktiv
+ASSIST_VEHICLEFINDER_SHOW
+	nicht_aktiv
+ASSIST_VI_PLUS
+	aktiv
+AUDIO_SYSTEM_CIC
+	hifi
+AUX1
+	standard
+AUX2_INTEGRATED_IN_RSE
+	wert_255
+AUX4
+	standard
+BACKDOOR_OPENINGANGLE
+	nicht_aktiv
+BEHANDLUNG_2S_TIMER
+	aktiv
+BRAKE_ASSISTENT
+	nicht_aktiv
+CDMM_AUX_HU
+	nicht_aktiv
+CDMM_BLUETOOTH_AUDIO
+	nicht_aktiv
+CDMM_DVD_SINGLE
+	aktiv
+CDMM_ES
+	aktiv
+CDMM_TV_AUDIOTRACE
+	nicht_aktiv
+CDMM_TV_AUTOSTORE
+	nicht_aktiv
+CDMM_TV_BML
+	nicht_aktiv
+CDMM_TV_EPG
+	nicht_aktiv
+CDMM_TV_FOLLOWING
+	nicht_aktiv
+CDMM_TV_PRESETLIST
+	nicht_aktiv
+CDMM_TV_TELETEXT
+	nicht_aktiv
+CDMM_USB
+	nicht_aktiv
+CDMM_USB_AUDIO_SINGLE
+	aktiv
+CONTACT_NUMBERS_BT
+	aktiv
+CONTACT_NUMBERS_DEALER
+	aktiv
+DAB_LAENDERVARIANTEN
+	nicht_aktiv
+DCC
+	aktiv
+DKG_CIC
+	nicht_aktiv
+DOOR_LOCKING_SELECTABLE
+	aktiv
+DVDAUDIO_AOP
+	nicht_aktiv
+DVDVIDEO_AOP
+	nicht_aktiv
+EDC_CIC
+	nicht_aktiv
+ENTWICKLER_MENUE
+	nicht_aktiv
+ENTWICKLER_MENUE_ASIEN
+	nicht_aktiv
+EXTERNER_MOST
+	aktiv
+FGR
+	nicht_aktiv
+FOLLOWING_AVAILABLE
+	aktiv
+GUIDED_TOURS
+	nicht_aktiv
+GUIDING_TIMING
+	us
+HEADUP_DISPLAY
+	nicht_aktiv
+HVAC_INDEPENDENT_HEATING
+	nicht_aktiv
+IPD_BEHANDLUNG
+	nicht_aktiv
+KOPIEREN_VON_PROFILEN
+	aktiv
+LANE_DEPARTURE_WARNING
+	nicht_aktiv
+MACRO_CAM_LEGALDISCLAIMER
+	ld_mit_timeout
+MACRO_NIVI
+	nicht_aktiv
+MACRO_NIVICAM_LDISCLAIMER
+	ld_mit_timeout
+MACRO_PDC
+	aktiv
+MACRO_PDC_TOPVIEW
+	nicht_aktiv
+MACRO_PMA
+	nicht_aktiv
+MACRO_REARVIEW
+	nicht_aktiv
+MACRO_SIDEVIEW
+	nicht_aktiv
+MACRO_TRAILER_COUPLING
+	nicht_aktiv
+MMC_CIC
+	wert_255
+MMS
+	standard
+MULTICHANNEL_MMC_DVD
+	nicht_aktiv
+NAVI_2D_MAP_OPTIONS
+	nicht_aktiv
+NAVI_FLEET_MODE
+	nicht_aktiv
+NAVI_MAPMODE_AUTOMATIC
+	nicht_aktiv
+NAVI_MAPSCROLL_LIGHTBEAM
+	aktiv
+NAVI_MECCA_INDICATOR
+	nicht_aktiv
+NAVI_ROAD_PREVIEW
+	nicht_aktiv
+NAVI_SHOW_GEOCORDINATES
+	aktiv
+NAVI_TRAFFIC_INFO_MAP
+	nicht_aktiv
+NAVI_USE_WHILE_UPDATE
+	aktiv
+NVC
+	wert_255
+ONLINE_CONFIG_TABLE_INDEX
+	config_table_1
+PHONE_MPC
+	aktiv
+PHONE_OBJPUSH_MENUE
+	nicht_aktiv
+PHONE_SMS
+	nicht_aktiv
+PIA_MMI
+	kein_pia_menue
+PIA_PORTIERUNGSMASTER
+	aktiv
+PIA_RESERVED
+	nicht_aktiv
+PIA_RUECKSETZEN_DEFAULT
+	aktiv
+POI_DETAILS
+	aktiv
+PORTIERUNG
+	aktiv
+RADIO_DAB
+	nicht_aktiv
+RADIO_IBOC
+	aktiv
+RADIO_SDARS
+	aktiv
+RADIO_WEATHERBAND
+	aktiv
+RGB_YUV_AUX1
+	reserved
+RPA_CIC
+	aktiv
+RSE_INTERNAL_VIDEO_PLAYBK
+	wert_255
+RVC_CIC
+	wert_255
+SERVICE_MENUE
+	aktiv
+SHUTDOWN_DELAY_TIMER_1
+	wert_01
+SHUTDOWN_DELAY_TIMER_2
+	wert_01
+SMG
+	aktiv
+SPRECHERWAHL1
+	weiblich
+SPRECHERWAHL2
+	weiblich
+SPRECHERWAHL3
+	weiblich
+SYSTEM_GPS_RECEIVER
+	aktiv
+SYSTEM_TTS
+	aktiv
+TDA_ASC_STATUS_CIC
+	aktiv
+TDA_BDA_STATUS_CIC
+	aktiv
+TDA_CFG_SER_ERR_SINK_CIC
+	aktiv
+TDA_DEACTIVATE_STATUS_CIC
+	nicht_aktiv
+TDA_HLC_STATUS_CIC
+	aktiv
+TDA_MSC_STATUS_CIC
+	aktiv
+TDA_TDC_STATUS_CIC
+	nicht_aktiv
+TELEX
+	aktiv
+TI_CA_TMC
+	nicht_aktiv
+TI_DETOUR_BUTTON_DISABLED
+	nicht_aktiv
+TI_FALLBACK_DISABLED
+	nicht_aktiv
+TI_POPUPS_DISABLED
+	nicht_aktiv
+TI_TMC
+	nicht_aktiv
+TI_TMC_REGIONAL
+	nicht_aktiv
+TI_TPEG
+	nicht_aktiv
+TI_USE_COMBI_DISABLED
+	nicht_aktiv
+TI_VICS
+	nicht_aktiv
+TIMER_VOLLBILDKARTE
+	permanent
+TV
+	wert_255
+TVC
+	wert_255
+TVM_VARIANTEN
+	kein_tvm
+USB_AVAILABLE
+	aktiv
+YC_AUX1
+	reserved
+YC_AUX4
+	reserved
+ASSIST_AKD_SHOW_READ
+	aktiv
+ASSIST_ECALL_CALL_HANGUP
+	nicht_aktiv
+CDMM_USB_AUDIO_AZ_SEARCH
+	aktiv
+HIGH_BEAM_ASSISTANT
+	nicht_aktiv
+HVAC_AIRLAMINATION_CODRV
+	nicht_aktiv
+HVAC_AIRLAMINATION_DRV
+	hvac_high
+HVAC_AUTOMATIC_INTENSITY
+	aktiv
+HVAC_CABRIO
+	nicht_aktiv
+HVAC_FOND_ACTIVATION
+	nicht_aktiv
+HVAC_INDEPENDENT_AIR
+	aktiv
+HVAC_POPUP_AIRDISTR
+	aktiv
+HVAC_POPUP_AUTO_TOGGLE
+	aktiv
+INTERVAL_LCP_ECHO_REQUEST
+	value_0
+LCP_ECHO_REQUEST
+	aktiv
+NAVI_RNC_MAINMAP_TEXT
+	permanent
+NIGHTVISION_1
+	nicht_aktiv
+AUX3_IN_RSE_RIGHT_SCREEN
+	wert_255
+BAUREIHE_CIC
+	e60
+CBS_VERSION_3_LOWER
+	aktiv
+CDMM_DVD_AOP_AUTOMATIC
+	nicht_aktiv
+COUNTRY
+	kanada
+DAB_DABFOLLOWING
+	aktiv
+DAYDRIVING_LIGHT
+	perm_off
+DISPLAY_VARIANTE
+	breites_display
+DOORLOCKING_SEATMEMORY
+	aktiv
+FDS_POPUP_DEACTIVATE
+	nicht_aktiv
+FOLLOWING_DAB_FM
+	aktiv
+GPS_FROM_NAVI
+	aktiv
+GUIDING_KOMBI_HUD
+	rueko_mit_hud
+GYRO_INTERN
+	aktiv
+HDC_CIC
+	aktiv
+HU_INTERNAL_VIDEO_PLAYBK
+	wert_51
+HVAC_POPUP_SEATCLIMATE
+	nicht_aktiv
+HVAC_SEATCLIMATE_LED
+	nicht_aktiv
+HVAC_SEATHEAT_DISTR_FOND
+	nicht_aktiv
+HVAC_SEATHEAT_DISTR_FRONT
+	aktiv
+HVAC_SEATVENTILATION_FOND
+	nicht_aktiv
+HVAC_SEATVENTILATION_FRNT
+	nicht_aktiv
+HYBRID
+	nicht_aktiv
+IBA
+	nicht_aktiv
+IHKA_VARIANTE
+	keine_ihka
+LEGAL_DISCLAIMER_TIME
+	ld_mit_timeout
+M_KEY_SETTINGS
+	nicht_aktiv
+MACRO_FDS
+	nicht_aktiv
+MIC_OVER_MOST
+	aktiv
+MUTE_PIN_BEHAVIOUR
+	no_function
+MUTE_PIN_SOURCE
+	no_source
+NAVI_FUELSTOP_PROPOSAL
+	nicht_aktiv
+NAVI_VARIANTE
+	us
+NIVI_2_OBJ_DETETECTION
+	nicht_aktiv
+PDC_SENSOR_HINTEN
+	4_sensoren
+PDC_SENSOR_VORN
+	4_sensoren
+PERMANENTER_PROFILWECHSEL
+	aktiv
+PHONE_ALL_INC_CALLS_LIST
+	aktiv
+PHONE_RSE
+	nicht_aktiv
+RADIO_COUNTRY
+	us
+SL01_VIDEO
+	nicht_aktiv
+SL02_ES
+	nicht_aktiv
+SL03_IMPORT_EXPORT
+	nicht_aktiv
+SL04_PIA
+	nicht_aktiv
+SL05_KONTAKTE_EDIT
+	nicht_aktiv
+SL06_IBA_1
+	aktiv
+SL07_IBA_2
+	aktiv
+SL08_NUMMEREINGABE
+	nicht_aktiv
+SL09_BT_PAIRING
+	nicht_aktiv
+SL10_ASSIST_PANNENHILFE
+	nicht_aktiv
+SL11_BMW_ONLINE
+	nicht_aktiv
+SL12_BMW_INTERNET
+	nicht_aktiv
+SL13_ZIELEINGABE_SPELLER
+	nicht_aktiv
+SL14_ZIELEINGABE_KARTE
+	nicht_aktiv
+SL15_TRIPPLANER
+	nicht_aktiv
+SL16_NAVI_POI_SUCHE
+	nicht_aktiv
+SL17_ASIA_NAVI_POI
+	nicht_aktiv
+SL18_ASIA_SEARCH
+	nicht_aktiv
+SL19_ASIA_SETTINGS
+	nicht_aktiv
+SL20_RESERVE
+	nicht_aktiv
+STARTUP
+	nicht_aktiv
+TELEMATIC_INSTANCE_ID
+	instanceid_0x00
+TEMPORAERER_PROFILWECHSEL
+	aktiv
+VCARD_OVER_MOST_CIC
+	aktiv
+VERBRAUCH_CIC
+	mpg_us
+VOL_MAX_ON
+	standard
+L4_L6_KOMMUNIKATIONSSCHLT
+	l4_aktiv
+ACOUSTICAL_LOCK_CONFIRM
+	aktiv
+ANTRIEB
+	aktiv
+CDMM_CHANGER_3
+	kein_cdc
+DAB_BAND
+	beide
+EINHEITEN_WEGSTRECKE_3
+	mls_feet
+EMAIL_READ_OUT_BUTTON
+	aktiv
+ETC
+	nicht_aktiv
+L6_ZBE_ARBITRATOR
+	nicht_aktiv
+LANGUAGE_1_3
+	english_us
+LANGUAGE_10
+	nicht_aktiv
+LANGUAGE_11
+	nicht_aktiv
+LANGUAGE_12
+	nicht_aktiv
+LANGUAGE_2_3
+	franzoesisch
+LANGUAGE_3_3
+	spanisch
+LANGUAGE_4
+	nicht_aktiv
+LANGUAGE_5
+	nicht_aktiv
+LANGUAGE_6
+	nicht_aktiv
+LANGUAGE_7
+	nicht_aktiv
+LANGUAGE_8
+	nicht_aktiv
+LANGUAGE_9
+	nicht_aktiv
+NAVI_KREUZUNGSZOOM
+	aktiv
+NAVI_PFEILANSICHT
+	aktiv
+OELSTANDSMENUE
+	aktiv
+ONBOARDCOMPUTER_DATE
+	aktiv
+ONLINE_DAR_INDEX_03
+	dar_1
+ONLINE_SERVICES
+	nicht_aktiv
+PHONE_CONFERENCE_CALL
+	aktiv
+PHONE_RESPONSE_HOLD
+	nicht_aktiv
+PHONE_SMS_READ_OUT_BUTTON
+	aktiv
+RADIO_DAB_VARIANTEN
+	single_tuner_single_hw
+RSE_3
+	kein_rse
+SCHNEEKETTENERKENNUNG
+	nicht_aktiv
+SL21_IBA_3
+	aktiv
+SPEEDLOCK_FREISCHALTMENU
+	nicht_aktiv
+TI_CAT_DEFAULT_CLOSED
+	aktiv
+TI_CAT_DEFAULT_FLOW
+	aktiv
+TI_CAT_DEFAULT_FORECAST
+	aktiv
+TI_CAT_DEFAULT_INCIDENTS
+	aktiv
+TI_CAT_DEFAULT_ONROUTE
+	aktiv
+TI_CAT_DEFAULT_PARK_PUBL
+	aktiv
+TI_CAT_DEFAULT_ROADWORKS
+	aktiv
+TI_CAT_DEFAULT_WEATHER
+	aktiv
+TI_CAT_VMAP_CLOSED
+	aktiv
+TI_CAT_VMAP_FLOW
+	nicht_aktiv
+TI_CAT_VMAP_FORECAST
+	aktiv
+TI_CAT_VMAP_INCIDENTS
+	aktiv
+TI_CAT_VMAP_ONROUTE
+	nicht_aktiv
+TI_CAT_VMAP_PARK_PUBL
+	aktiv
+TI_CAT_VMAP_ROADWORKS
+	aktiv
+TI_CAT_VMAP_WEATHER
+	aktiv
+TI_DAB_TMC
+	nicht_aktiv
+TIME_DIST_SAME_PRIO_3
+	standard
+TIME_OUT_GONG_3
+	standard
+VIDEO_NUR_MIT_HANDBREMSE
+	aktiv
+AUDIO_SIGNAL_ROUTING_CIC
+	standard
+MULTICHANNEL_CIC
+	nicht_aktiv
+NOTEPAD_CIC
+	nicht_aktiv
+DUMPER_LEVEL
+	nicht_aktiv
+FONDLOCK_POPUP_TIMESPAN
+	nicht_aktiv
+GETRIEBETYP_CIC
+	nicht_aktiv
+LOGIC7_SYMBOL_C04
+	nicht_aktiv
+RUEKO_PU_0308
+	nicht_aktiv
+A2DP_PROFILE
+	nicht_aktiv
+AUDIO_PLAYER_ON_OFF
+	nicht_aktiv
+BT_DATA_SERVICE
+	nicht_aktiv
+BT_MODUL_ON_OFF
+	nicht_aktiv
+DSC_MENUE
+	aktiv
+DSC_OFF_CIC
+	nicht_aktiv
+DUN_PROFILE
+	nicht_aktiv
+EINHEITEN_MASTER
+	hmi
+EXTERNAL_CALL_LISTS
+	aktiv
+FEATURE_DISPLAY
+	deviceid
+MICROPHONE_SENSITIVITY
+	l4_mic
+MODELL_CIC
+	bmw
+MUTE_BUTTON
+	nicht_aktiv
+PAN_PROFILE
+	nicht_aktiv
+PB_DOWNLOAD_PRIORITY
+	wert_03
+PRODUKTLINIE
+	l6-w
+RINGTONE_CIC
+	bmw
+SDARS_IN_EXBOX
+	exbox
+SECURE_SIMPLE_PAIRING
+	nicht_aktiv
+TDA_CFG_CUST_MOBILE_CIC
+	nicht_aktiv
+DWA
+	aktiv
+ENABLE_BC2_AUTORESET
+	aktiv
+EXCL_MULTICHANN_FRONT_DVD
+	nicht_aktiv
+EXCL_MULTICHANNEL_MMC
+	nicht_aktiv
+EXCL_MULTICHANNEL_TV
+	nicht_aktiv
+EXCL_MULTICHANNL_REAR_DVD
+	nicht_aktiv
+FBM_DEFAULT
+	aktiv
+FBM_DETAILED_INFO
+	aktiv
+FBM_ENT
+	aktiv
+FBM_IBA
+	aktiv
+FBM_MENUJUMPS
+	aktiv
+FBM_NAVI
+	aktiv
+FBM_OTHER
+	aktiv
+FBM_SHORT_INFO
+	aktiv
+FBM_TEL
+	aktiv
+FM_BAND_KW
+	nicht_aktiv
+FM_BAND_MW
+	aktiv
+HUD_DISTANCE_INFO
+	nicht_aktiv
+MACRO_L6_PARKMENU
+	nicht_aktiv
+MOMENTDISTRIBUTION_MENU
+	nicht_aktiv
+RSE_BRIGHTNESS
+	nicht_aktiv
+BAUART_CIC
+	limousine
+ROUTEN_ID_GUIDEDTOURS
+	nicht_aktiv
+CDMM_ES_ALBUM_INFO
+	nicht_aktiv
+LANE_CHANGE_WARNING
+	nicht_aktiv
+TDA_CFG_LEVEL3
+	aktiv
+CIC_MDRIVE
+	nicht_aktiv
+API_IPOD_EIN_AUS_CIC
+	aktiv
+API_MTP_EIN_AUS_CIC
+	aktiv
+BT_PHONE_INSTANCE_ID
+	wert_00
+DEFAULT_DATUM
+	mm_dd_yyyy
+DEFAULT_DRUCK_EINHEIT
+	psi
+DEFAULT_SVS_DIALOG
+	standard
+DEFAULT_TEMPERATUR
+	fahrenheit
+DEFAULT_WEG_EINHEIT
+	km
+DEFAULT_ZEIT_EINHEIT
+	12h
+EINSTELLUNG_MEILEN
+	mls_us
+ENT_VIDEO_VORNE_GESPERRT
+	nicht_aktiv
+FUNCTIONALITY_VIEWER
+	nicht_aktiv
+MAP_SCROLL_3D
+	aktiv
+NAD_PHONE_INSTANCE_ID
+	wert_00
+NAVI_DEST_EXPORT
+	nicht_aktiv
+NAVI_DEST_IMPORT
+	nicht_aktiv
+NAVI_MYPOI_EXPORT
+	nicht_aktiv
+NAVI_ROUTE_RECORD
+	nicht_aktiv
+NAVI_TRIP_EXPORT
+	nicht_aktiv
+NAVI_TRIP_IMPORT
+	nicht_aktiv
+ONLINE_SERVICES_GLS
+	nicht_aktiv
+RDC_SAFETY
+	nicht_aktiv
+SPEEDLIMIT_INFO
+	nicht_aktiv
+CHECKBOX_TP
+	nicht_aktiv
+FBM_SELECTION
+	six_buttons_us
+CONNECTIVITY_SYSTEM_VER
+	teilenummer
+DATACOM_INTERFACE
+	tcu_mulf
+EARLY_VIDEO_LEGALDISCL
+	kein_ld
+HDD_ACCESS_VIA_ETHERNET
+	nicht_aktiv
+INBAND_RINGING
+	nicht_aktiv
+SDARS_REPLAY_AUTOMATIC
+	nicht_aktiv
+VIDEO_WATCHDOG_NIGHTVISIO
+	nicht_aktiv
+VIDEO_WATCHDOG_REARVIEW
+	nicht_aktiv
+VIDEO_WATCHDOG_SIDEVIEW
+	aktiv
+VIDEO_WATCHDOG_TOPVIEW
+	nicht_aktiv
+CDMM_BT_DATABASE
+	nicht_aktiv
+CDMM_USB_COMPOSER_IPOD
+	disabled
+CDMM_USB_COMPOSER_MTP
+	enabled
+CDMM_USB_COVER_ART
+	nicht_aktiv
+DATACOM_TRANSFER
+	most_high
+LANGUAGE_MASTER
+	english_us
+SOFTWARE_UPDATE_MANAGER
+	nicht_aktiv
+AUDIO_REMOTE_CONTROL
+	nicht_aktiv
+BRAKE_ASSISTENT_3
+	nicht_aktiv
+FM_DEEMPHASIS
+	wert_02
+KOMBI_CIC
+	kombi_high
+GRACENOTES_ACCESS
+	most
+NAVI_FULL_GUIDINGPOPUP
+	nicht_aktiv
+NAVI_MAP_ARROWVIEW
+	aktiv
+NAVI_SPLIT_GUIDINGPOPUP
+	aktiv
+MICROPHONE_0A
+	no_microphone
+EXTERNE_MOST_DIAG
+	aktiv
+AVOID_VIGNETTE_0A
+	nicht_aktiv
+ECALL_INSTANCE_ID_0A
+	wert_00
+SIDE_VIEW_CAMERA_0A
+	wert_255
+CONTACT_NUM_HOTLINE_0B
+	aktiv
+CONTACT_NUMBERS_BCALL_0B
+	aktiv
+HVAC_MSA_EFFICIENCY
+	nicht_aktiv
+KOMBIGUIDING_SCHALTBAR
+	nicht_aktiv
+MACRO_PIM
+	nicht_aktiv
+NAVI_ROUTE_STUDY
+	nicht_aktiv
+P_BOOK_NAME_DISPL_ORD
+	firstname_last
+PIM_ADR_VALID
+	nicht_aktiv
+PIM_CROSS_USE
+	nicht_aktiv
+PIM_OVERVIEW
+	aktiv
+PIM_TTS
+	aktiv
+PU_0909
+	nicht_aktiv
+CDMM_USB_AUDIO_DOUBLE_0B
+	nicht_aktiv
+CDMM_VIDEO_C0B
+	aktiv
+NAVI_INFO_INSTANCE_ID_0B
+	wert_01
+PHONE_TYPE_C0B
+	tcu_us_sa639
+PICTURE_ALBUM_ARTS_0B
+	nicht_aktiv
+TI_CA_TPEG_C0B
+	nicht_aktiv
+TI_VINFO_C0B
+	nicht_aktiv
+SW_UPDATE_ASSISTANT
+	nicht_aktiv
+COMFORT_OPENING
+	nicht_aktiv
+HYBRID_EFFICIENCY_GRAPHIC
+	nicht_aktiv
+LANGUAGE_13
+	nicht_aktiv
+LANGUAGE_14
+	nicht_aktiv
+LANGUAGE_15
+	nicht_aktiv
+LANGUAGE_16
+	nicht_aktiv
+MMC_VARIANTE
+	wert_01
+RADIO_AM_LW
+	aktiv
+ALTERNATIV_ROUTEN
+	aktiv
+FM_BAND_LW_0C
+	nicht_aktiv
+GUIDING_TIMING_KM
+	permanent
+GUIDING_TIMING_MLS
+	permanent
+PIM_DRIVING_TEXT_LENGTH
+	one_page
+REMOTE_HMI
+	nicht_aktiv
+TEXTKUERZUNG
+	aktiv
+TVC_WIDTH_0C
+	wert_01
+TYPE_OF_FUEL_0C
+	alle_kraftstoffe
+TDA_ATM_ACTIVE_CIC_0C
+	aktiv
+TDA_CFG_AUTO_TRIG_CIC_0C
+	aktiv
+CLIMATE_ACT_ONE_TIMER
+	nicht_aktiv
+MESSAGE_FILTER
+	nicht_aktiv
+NAVI_MYPOI_IMPORT_C0D
+	nicht_aktiv
+ONE_SHOT_DEST_INPUT_C0D
+	nicht_aktiv
+ONLINE_BROWSER_C0D
+	nicht_aktiv
+PDC_DIRECTION
+	horizontal
+TDA_TSR_INSTANCE_ID_C0D
+	wert_01
+API_TYPE
+	mulf2_high
+HUD_ACTIVATION
+	nicht_aktiv
+SINGLE_OR_MULTILINK
+	multilink
+SPEEDLOCK_X_KMH_MAX_C0E
+	nicht_aktiv
+SPEEDLOCK_X_KMH_MIN_C0E
+	nicht_aktiv
+A4A
+	nicht_aktiv
+AUDIO_SYSTEM_VAR
+	default
+CDMM_PERSONALRADIO
+	nicht_aktiv
+CDMM_USB_HMI
+	old
+CDMM_USB_POD_BOOK
+	nicht_aktiv
+CDMM_USB_VIDEO
+	none
+COMINGSTREET_KOMBI_HUD
+	nicht_aktiv
+NAVI_3D_MAP_OPTIONS_C0F
+	aktiv
+ROTATION_WERTE_EINHEITEN
+	nicht_aktiv
+BASIS_KOMBI_MMI_LIST
+	aktiv
+BMAP_JUNCTION_VIEW
+	aktiv
+DAB_STANDARD
+	nicht_aktiv
+DMB_MAX_FRAMERATE
+	wert_0
+DOORLOCKING_AFTER_DRIVING
+	aktiv
+HMI_FUER_DAB_DMB
+	dab_dmb_radio
+HUD_TURNSIGNAL
+	nicht_aktiv
+KOMBI_AR_PRES
+	nicht_aktiv
+PHONEBOOK_NAME_ORD
+	aktiv
+SECONDARY_HFP
+	nicht_aktiv
+SERVICE_HISTORY
+	nicht_aktiv
+WELCOME_LIGHT
+	aktiv
+EXT_MUSIC_MANAGEMENT
+	aktiv
+HUD_ROTATION
+	nicht_aktiv
+JUNCTION_VIEW_HUD
+	nicht_aktiv
+M_DIGITAL_TACHO_EINH
+	nicht_aktiv
+RSE_SERVICE_MESSAGES
+	nicht_aktiv
+TIME_LAG_IDG_CIC
+	standard
+TIME_LAG_IMG_CIC
+	standard
+A4A_REMOTE_APPS
+	nicht_aktiv
+ANZEIGE_FREQ
+	nicht_aktiv
+AUDIO_OFFSET
+	nicht_aktiv
+BRAKE_ASSISTANT_CCM
+	nicht_aktiv
+BRAKE_ASSISTANT_FCW
+	nicht_aktiv
+COLOUR_SWITCH
+	nicht_aktiv
+COLOUR_SWITCH_LINES
+	nicht_aktiv
+DAB_FOLLOWING_CHECKB_HMI
+	nicht_aktiv
+DEBOUNCE_KOMBI_BASIS
+	defaultwert_50
+ECO_ROUTE_TEXT
+	nicht_aktiv
+ENT_CHANNELBUFFER
+	wert_11
+ENT_ITEM_UPDATE_COUNT
+	wert_1
+ENT_MANAGED_CHANNEL
+	wert_50
+ENT_MAX_NUMBER_FAVOURIES
+	wert_100
+ENT_ONLINE
+	nicht_aktiv
+ENT_QUERY_CHANNEL
+	wert_50
+ENT_TEMPORARY_CHANNEL
+	wert_100
+HEADLIGHT_SETTING
+	nicht_aktiv
+HELLIGKEIT_AMBILIGHT
+	nicht_aktiv
+LANGUAGE_UPDATE
+	nicht_aktiv
+M_DIGITAL_TACHO
+	aktiv
+MAX_VOL_STEP_RSE
+	standard_39h
+MDRIVE_CONFIG
+	1_menu
+MDRIVE_RUEKO
+	nicht_aktiv
+MMI_STATISTIK
+	nicht_aktiv
+MODE_HARDKEY
+	radio_cd
+NANP_FORMAT
+	aktiv
+NAVI_POI_ONLINE_SEARCH
+	browser
+NAVI_POSITION_MENU
+	nicht_aktiv
+OELSTAND_OENS
+	nicht_aktiv
+SERVICE_HISTORY_WHO
+	default
+SPEECH_2_TEXT
+	nicht_aktiv
+TERMINAL_UI
+	nicht_aktiv
+VOL_MAX_ON_RSE
+	standard_19h
+BRAKE_ASSISTANT_CONF
+	nicht_aktiv
+DATUMSFORMAT_AR_ASIA
+	nicht_aktiv
+ENABLE_SW_INFO_REQUEST_14
+	nicht_aktiv
+FBM_NO_TOUCHSENSOR
+	nicht_aktiv
+SLEEPDELAY_CLAMP30B_MIN_2
+	wert_ff
+SLEEPDELAY_TIMERVALUE_2
+	wert_1e
+BEV
+	nicht_aktiv
+CONNECTED_DRIVE
+	nicht_aktiv
+ECO_FDS_POPUP
+	nicht_aktiv
+ECO_LIMIT
+	nicht_aktiv
+ECO_MODE
+	nicht_aktiv
+ECO_MODE_CONF
+	nicht_aktiv
+ECO_ROUTE
+	nicht_aktiv
+ECO_TIPPS
+	aktiv
+EFF_DYN_FORECAST_HYB
+	na
+EFF_DYN_SPORT_CID
+	nicht_aktiv
+EFF_DYN_SPORT_UNIT
+	nicht_aktiv
+EFF_DYN_SYS_CID
+	nicht_aktiv
+ENT_HUDRIVE_INSTALLED
+	aktiv
+EXTENDED_CC_MESSAGES
+	aktiv
+FDS_NAMING_MODE
+	bis_0711
+HIGH_END_AUDIO_MENUE
+	kein_menue
+HIST_BEV_CONSUMP
+	nicht_aktiv
+HIST_BEV_CONSUMP_SCALE_1
+	50
+HIST_BEV_CONSUMP_SCALE_2
+	6
+HIST_BEV_CONSUMP_SCALE_3
+	10
+HIST_BEV_RECUP_SCALE_1
+	20
+HIST_BEV_RECUP_SCALE_2
+	20
+HIST_BEV_RECUP_SCALE_3
+	30
+HIST_CONSUMP_AVERAGE
+	kein_wert
+HIST_FDS_MODE_COLOR
+	nicht_aktiv
+HIST_FDS_MODE_NAME
+	nicht_aktiv
+HIST_GAS_CONSUMP
+	nicht_aktiv
+HIST_GAS_CONSUMP_SCALE_1
+	20
+HIST_GAS_CONSUMP_SCALE_2
+	80
+HIST_GAS_CONSUMP_SCALE_3
+	60
+HIST_GAS_CONSUMP_SCALE_4
+	40
+HIST_HYB_CONSUMP
+	nicht_aktiv
+HIST_HYB_CONSUMP_SCALE_1
+	20
+HIST_HYB_CONSUMP_SCALE_2
+	20
+HIST_HYB_CONSUMP_SCALE_3
+	30
+HIST_HYB_CONSUMP_SWITCH
+	nicht_aktiv
+HIST_ZOOM
+	nicht_aktiv
+MAXGLOBALREMOTECOMMANDS
+	v20
+MAXLOCALREMOTECOMMANDS
+	v0
+ONLINE_BROWSER_LIVE
+	nicht_aktiv
+PHONEBOOK_CACHING
+	nicht_aktiv
+RR_SPEZ_KLZ
+	nicht_aktiv
+SETTINGS_DOORLOCKING
+	aktiv
+SETTINGS_HOMELIGHT_PERIOD
+	aktiv
+SETTINGS_INFO_DISPLAY
+	nicht_aktiv
+SETTINGS_LIMIT
+	aktiv
+SETTINGS_SPIRITOFECSTASY
+	nicht_aktiv
+SETTINGS_TIP_BLINKING
+	aktiv
+SETTINGS_TOURIST_LIGHT
+	nicht_aktiv
+SETTINGS_TRACTION
+	aktiv
+TDA_CFG_BDA_REMOTE_HELP
+	aktiv
+TPEG_TAP
+	nicht_aktiv
+TRAVEL_BC
+	aktiv
+A4A_LEGAL_DISCLAIMER
+	nicht_aktiv
+ASD_CIC
+	ls_diag_on
+CBS_MOBIGUAR_LIFELONG
+	nicht_aktiv
+CONFIG_INDEX
+	config_index_8
+DAC
+	none
+	dac_ccm
+	dac_popup
+DPAS_INDEX
+	dpas_4
+EFF_DYN_SAILING
+	nicht_aktiv
+FAS_INSZENIERUNG
+	nicht_aktiv
+GATEWAYTABLE
+	l6_mue
+GEZIELTES_ANLEUCHTEN
+	nicht_aktiv
+HIST_Y_SCALE_STEP_1
+	000
+HIST_Y_SCALE_STEP_2
+	000
+HIST_Y_SCALE_STEP_3
+	000
+HIST_Y_SCALE_STEP_4
+	000
+HIST_Y_SCALE_STEP_5
+	000
+HIST_Y_SCALE_STEP_6
+	000
+PERSONEN_WARNUNG
+	nicht_aktiv
+SWT_ARABIC
+	nicht_aktiv
+TIMESTAMP_DISPLAY
+	nicht_aktiv
+VANITY_DIALLING_EIN_AUS
+	nicht_aktiv
+VOICE_LANGUAGE_RR_US
+	nicht_aktiv
+ZBE_LOW
+	nicht_aktiv
