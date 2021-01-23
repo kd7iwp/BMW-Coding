@@ -215,7 +215,7 @@ PORTIERUNG
 RADIO_DAB
 	nicht_aktiv
 RADIO_IBOC
-	nicht_aktiv
+	aktiv
 RADIO_SDARS
 	nicht_aktiv
 RADIO_WEATHERBAND
@@ -663,7 +663,7 @@ HUD_DISTANCE_INFO
 MACRO_L6_PARKMENU
 	nicht_aktiv
 MOMENTDISTRIBUTION_MENU
-	aktiv
+	nicht_aktiv
 RSE_BRIGHTNESS
 	nicht_aktiv
 BAUART_CIC
