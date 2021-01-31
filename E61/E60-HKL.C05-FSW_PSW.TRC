@@ -1,9 +1,9 @@
 BAUART
 	touring
 FUNKTION_TOEHKI
-	nicht_aktiv
+	aktiv
 FUNKTION_FBD_SCHLIESSEN_2
-	nicht_aktiv
+	aktiv
 WERT_SANFTEINLAUF_UNTEN
 	wert_03
 REVERSIEREN
