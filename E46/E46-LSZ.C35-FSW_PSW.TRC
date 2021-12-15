@@ -247,9 +247,9 @@ PIN29_30_BL_NSL
 BFD_SW1_STUFE3
 	nicht_aktiv
 BFD_SW2_STUFE2
-	nicht_aktiv
+	aktiv
 PIN5_10_BFD
-	nicht_aktiv
+	aktiv
 PWM_ANSTEUERUNG_NSW
 	wert_01
 LOAD_DUMP_U_GR
@@ -295,9 +295,9 @@ LWR_INVERS_OD_ALC_6
 REF_LAUF_T1_OD_ALC_4
 	wert_02
 BLST1_BLST3
-	nicht_aktiv
+	aktiv
 BFD_ABS_STUFE3
-	nicht_aktiv
+	aktiv
 BFD_STUFE3_TIMER
 	wert_02
 BFD_BLINK_EINZEIT
