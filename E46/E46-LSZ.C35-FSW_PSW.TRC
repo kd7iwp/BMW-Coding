@@ -343,7 +343,7 @@ LEUCHTWEITENREGELUNG
 PIN_20_ALS_SIDEMARKER
 	nicht_aktiv
 HEIMLEUCHTEN_KL58G
-	nicht_aktiv
+	aktiv
 TAXI_ENABLE
 	nicht_aktiv
 FEHLER_NSL_RECHTS
@@ -355,7 +355,7 @@ TAGFAHRLICHT_ECE
 GED_FL_ALS_DRL
 	aktiv
 VARIANTE_LSZ
-	wert_01
+	wert_02
 LENKSEITE_LSZ
 	wert_01
 KALTUEBERWACHUNG_AL
@@ -369,11 +369,11 @@ XENON_TEST
 LEUCHTWEITENREG_DYNAM
 	aktiv
 BI_XENON
-	aktiv
+	nicht_aktiv
 HALB/VOLLSCHRITT
 	halbschritt
 PWM_WERT2_FL_BIXENON
-	wert_02
+	wert_01
 FL_UND_NSW_NICHT_GLEICHZ
 	aktiv
 FEHLER_SCHALTER_BREMSL
@@ -405,45 +405,45 @@ DEF_LWR_SENSOR_HI
 OFFSET_LWR
 	wert_01
 PWM_ANSTEUERUNG_SL3_LI_HI
-	wert_02
+	wert_01
 PWM_ANSTEUERUNG_SL3_RE_HI
-	wert_02
+	wert_01
 PWM_ANSTEUERUNG_SL2_RE_HI
-	wert_02
+	wert_01
 KALTUEBERWACHUNG_RL_3_LI
-	aktiv
+	nicht_aktiv
 KALTUEBERWACHUNG_RL_3_RE
-	aktiv
+	nicht_aktiv
 WARMUEBERWACHUNG_RL_3_LI
-	aktiv
+	nicht_aktiv
 WARMUEBERWACHUNG_RL_3_RE
-	aktiv
+	nicht_aktiv
 WARMUEBERWACHUNG_RL_2_RE
-	aktiv
+	nicht_aktiv
 CC_RUECKLICHT_3_LINKS
-	aktiv
+	nicht_aktiv
 CC_RUECKLICHT_3_RECHTS
-	aktiv
+	nicht_aktiv
 NSL_ALS_STANDLICHT
-	aktiv
+	nicht_aktiv
 PIN_37_ALS_SL_RE_2
-	aktiv
+	nicht_aktiv
 SL_X_3_ERSETZT_DEFEKT_BL
-	aktiv
+	nicht_aktiv
 SL_3_ERSETZT_DEFEKT_BLK
-	aktiv
+	nicht_aktiv
 KALTUEBERWACHUNG_RL_2_RE
-	aktiv
+	nicht_aktiv
 CC_RUECKLICHT_2_RECHTS
-	aktiv
+	nicht_aktiv
 PIN_20_ALS_SL_LI_3_ANSTEU
-	aktiv
+	nicht_aktiv
 PIN_38_ALS_SL_RE_3
-	aktiv
+	nicht_aktiv
 KALTUEBERWACHUNG_NSL_LI
-	aktiv
+	nicht_aktiv
 WARMUEBERWACHUNG_NSL_LI
-	aktiv
+	nicht_aktiv
 DEF_PIN_5_10_DEFEKTBLK
 	aktiv
 DEF_PIN_5_10_DEFEKT_SL
@@ -453,7 +453,7 @@ P_10_5_ALS_BL_FUNKTION
 BL_ERSETZ_DEFEKT_SL
 	nicht_aktiv
 PWM_WERT2_BLK_ZUSATZFKT
-	wert_02
+	wert_01
 DEF_PIN_29_30_DEFEKT_BL
 	nicht_aktiv
 DEF_PIN_29_30_DEFEKT_SL
@@ -463,9 +463,9 @@ STANDLICHT_ALS_BREMSLICHT
 PWM_WERT2_SL3_ZUSATZFKT
 	wert_01
 BREMSLICHT_ALS_STANDLICHT
-	nicht_aktiv
+	aktiv
 PIN_20_ALS_NSL
-	nicht_aktiv
+	aktiv
 BLK_DIMMEN
 	nicht_aktiv
 INTERM_FL
@@ -473,11 +473,11 @@ INTERM_FL
 SCHALTER2_BL
 	nicht_aktiv
 GEDIMMT_BL__BEGRENZ_LICHT
-	nicht_aktiv
+	aktiv
 PWM_ANSTEUERUNG_SL_LI_HI
-	wert_02
+	wert_01
 PWM_ANSTEUERUNG_SL_RE_HI
-	wert_02
+	wert_01
 PWM_ANSTEUERUNG_KZL
 	wert_01
 KALTUEBERWACHUNG_RL_LI
@@ -511,7 +511,7 @@ PWM_WERT2_ALS_SL_AUSGANG
 NSL_ERSETZT_DEFEKT_BL
 	nicht_aktiv
 BL_ERSETZT_DEFEKT_BLK
-	nicht_aktiv
+	aktiv
 SL_ERSETZT_DEFEKT_BLK
 	nicht_aktiv
 STANDLICHT_ALS_NSL_LINKS
@@ -523,13 +523,13 @@ FO_ME_HOME_SL2
 PIN37_49_PARKL
 	nicht_aktiv
 PIN38_20_PARK
-	aktiv
+	nicht_aktiv
 HEIMLEUCHTEN_SL3_H
-	aktiv
+	nicht_aktiv
 PIN29_30_PARK
 	nicht_aktiv
 HEIMLEUCHTEN_SL_H
-	nicht_aktiv
+	aktiv
 HEIMLEUCHTEN_SL_V
 	nicht_aktiv
 BFD_MINDEST_GESCHW
@@ -539,9 +539,9 @@ BFD_STUFE_2_VERZOEG
 BFD_STUFE_2_MAX_EIN
 	wert_01
 BFD_SW1_STUFE2
-	aktiv
+	nicht_aktiv
 BFD_ABS_STUFE2
-	aktiv
+	nicht_aktiv
 BFD_STUFE2_TIMER
 	wert_01
 BFD3_ASC_TIMER
@@ -553,9 +553,9 @@ PIN38_20_BFD
 M_TELEGRAM_OD_ALC_5
 	nicht_aktiv
 PWM_ANSTEUERUNG_BL
-	wert_02
+	wert_01
 PWM_ANSTEUERUNG_BLK_HI
-	wert_02
+	wert_01
 SL_ERSETZT_DEFEKT_BL
 	nicht_aktiv
 AL_KL_50
@@ -613,7 +613,7 @@ HYSTERESE_OD_AL_XENON_IO
 T_STROM_OD_ALC_PARA_02
 	wert_02
 SCHRITTE_1_OD_ALC_AKTIV_1
-	wert_07
+	wert_01
 SCHRITTE_2_OD_ALC_AKTIV_2
 	wert_04
 ABS_MIN_2_OD_ALC_AKTIV_3
