@@ -1,0 +1,36 @@
+Create a .vmdk of a physical disk for VMWare
+————————————————————
+https://kb.vmware.com/s/article/2097401
+
+1.	If you are using a VMWare Workstation VM, rename the folder it is inside of to have “.vmwarevm” at the end as this makes it into a VMWare Fusion package
+2.	Find the name of the disk
+	diskutil list
+3.	Find the positions of the partitions on the disk to grab the ones you need from the Nr column
+	/Applications/VMware\ Fusion.app/Contents/Library/vmware-rawdiskCreator print /dev/disk2
+	Nr      Start       Size Type Id Sytem                   
+	-- ---------- ---------- ---- -- ------------------------
+	 5        126  117451089 BIOS 4D QNX4.x
+	 7  117451278    6152832 BIOS 4D QNX4.x
+	 9  123604173    3421782 BIOS 4D QNX4.x
+	11  127026018    2297232 BIOS 4D QNX4.x
+	13  129323313   26635707 BIOS 4D QNX4.x
+	15  155959083     337302 BIOS 4D QNX4.x
+4.	Create the .vmdk file. I tried using “fullDevice” rather than a comma-separated list of partitions numbers but it wasn’t working for me. Have it put directly inside the VMWare package
+	/Applications/VMware\ Fusion.app/Contents/Library/vmware-rawdiskCreator create /dev/disk2 5,7,9,11,13,15 ~/Downloads/Neutrino641Target-2.vmwarevm/rawDiskFile ide
+5.	This should create rawDiskFile.vmdk and for partitioned disks – rawDiskFile-pt.vmdk
+6.	Add a few lines to the .vmx file inside the .vmwarevm Fusion package. Choose ide values not already in use, like ide0:1 or ide1:0 or ide1:1
+	ide0:1.present = "TRUE"
+	ide0:1.fileName = "rawDiskFile.vmdk"
+	ide0:1.deviceType = "rawDisk"
+	suspend.disabled = "TRUE"
+7.	Now the drive should show up in the VM when you boot it 
+
+
+Cloning a drive to an image and vice-versa
+———————————————————
+
+1.	In Terminal, run “diskutil list” to see the list of drives and find the external drive.
+2.	If the disk is mounted, be sure to unmount it first, such as “diskutil unmountDisk /dev/disk2”
+3.	Create a disk image from the external drive by typing “sudo dd if=/dev/disk2 of=/Users/jonathan/Desktop/image.dd bs=512”
+	You can choose other options instead of bs=512, such as bs=4096. Larger numbers copy much faster but the BMW CIC may not like block sizes larger than 512.
+4.	To write back to the disk from an image run the same command but with the locations reversed for “if” (in file) and “of” (out file). 
