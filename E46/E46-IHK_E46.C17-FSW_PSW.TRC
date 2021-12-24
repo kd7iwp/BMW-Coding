@@ -107,7 +107,7 @@ ZUHEIZER
 AUTOM_UMLUFT_CONTROL
 	aktiv
 UMLUFT_MEMORY
-	nicht_aktiv
+	aktiv
 ZUHEIZ_RELAIS
 	nicht_aktiv
 BORDMONITOR
