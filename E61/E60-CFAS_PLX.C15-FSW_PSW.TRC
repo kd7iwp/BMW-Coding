@@ -72,7 +72,7 @@ MAX_ZEIT_PH_1_LE_FAS
 	max_zeit_ph1_rr
 	wert_04
 SA_KONFIG_KL_FAS
-	nicht_aktiv
+	aktiv
 SA_KONFIG_AS_FAS
 	nicht_aktiv
 SA_KONFIG_LD_FAS
@@ -100,7 +100,7 @@ FEH_MOTOR_FAS
 KA30A_C_AUT_SITZV_1
 	nicht_aktiv
 KA30A_C_AUT_SITZV_2
-	nach_fb_entriegeln
+	nicht_aktiv
 KA30A_C_AUT_SITZV_3
 	nicht_aktiv
 KA30A_C_AUT_SITZV_4
@@ -116,9 +116,9 @@ KHV_MOTOR_FAS
 KUNDEN_MEMORY_FAS
 	aktiv
 LBV_HALL_FAS
-	aktiv
+	nicht_aktiv
 LBV_MOTOR_FAS
-	aktiv
+	nicht_aktiv
 LKV_HALL_FAS
 	aktiv
 LKV_MOTOR_FAS
@@ -274,7 +274,7 @@ AIRBAG_POS
 SLV2FEH_UMSCHALTZEIT
 	wert_02
 GESAMTSCHIENENLAENGE_HALL
-	wert_01
+	wert_02
 MAX_TOLERANZ_HALLWERTE
 	wert_01
 KHV_GRENZE_UNTEN
