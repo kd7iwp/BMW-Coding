@@ -5,7 +5,7 @@ MAX_PWM_PH_1_KI_FAS
 	wert_03
 	wert_04
 ZEIT_ST3_NACH_ST2
-	wert_10
+	nicht_aktiv
 DEF_AUT_SITZVERSTELLUNG
 	nicht_aktiv
 MAX_PWM_PH_1_LE_FAS
@@ -98,13 +98,13 @@ CKM_BEH_AUSLOESE_FAS
 FEH_MOTOR_FAS
 	nicht_aktiv
 KA30A_C_AUT_SITZV_1
-	nicht_aktiv
+	nach_entr_u_tuer_oeffnen
 KA30A_C_AUT_SITZV_2
 	nicht_aktiv
 KA30A_C_AUT_SITZV_3
 	nicht_aktiv
 KA30A_C_AUT_SITZV_4
-	nicht_aktiv
+	nach_entr_u_tuer_oeffnen
 KA30A_D_AUT_SITZV
 	nicht_aktiv
 KA30A_S_AUT_SITZV
@@ -250,7 +250,7 @@ ZEITFENSTER_FUER_MIN_T
 EA_AKT_EVENT_FAS
 	wert_01
 EA_HILFE_BED_FAS
-	wert_02
+	wert_01
 MIN_T_RESTH_N_MIN_FAS
 	min_temp_resth_1min_e65
 	min_temp_resth_1min_rr
