@@ -1,0 +1,28 @@
+ALBV_BAUREIHE
+	m5
+M_DRIVE_ACTIVE
+	aktiv
+PWM_ALBV_OPEN
+	pwm_act_open_komfort
+PWM_COMF_CLOSE
+	pwm_comf_close_komfort
+PWM_COMF_OPEN
+	pwm_comf_open_komfort
+SITZTYP
+	komforsitz
+TEMP_MOT_OFF
+	temp_off_komfort
+MAX_ALBV_POS
+	max_pos_komfort
+PWM_INIT
+	pwm_init_komfort
+ABSCHALTPKT_ALBV_OEFF
+	wert_01
+ABSCHALTPKT_MEM_OEFF
+	wert_01
+PWM_ALBV_CLOSE_KEN_1
+	wert_01
+PWM_ALBV_CLOSE_KEN_3
+	wert_01
+WECHSELKRV_FUNKT
+	wert_02
