@@ -1,0 +1,265 @@
+ZEIT_ST3_NACH_ST2
+	nicht_aktiv
+ZIELTEMP_STUFE_1_KI_BFS
+	zieltemp_st1_e65
+	zieltemp_st1_rr
+	wert_03
+	wert_04
+ZIELTEMP_STUFE_2_KI_BFS
+	zieltemp_st2_e65
+	zieltemp_st2_rr
+	wert_04
+	wert_06
+ZIELTEMP_STUFE_3_KI_BFS
+	zieltemp_st3_e65
+	zieltemp_st3_rr
+	wert_04
+	wert_06
+ABST_ENDT_VOR_PH_2_KI_BFS
+	abstand_endtemp_e65
+	abstand_endtemp_rr
+	wert_04
+MAX_ZEIT_PH_1_KI_BFS
+	max_zeit_ph1_e65
+	max_zeit_ph1_rr
+	wert_04
+MAX_PWM_PH_1_KI_BFS
+	max_pwm_ph1_e65
+	wert_03
+	wert_04
+ANST_SCHNELLH_PH_3_KI_BFS
+	max_zeit_ph1_e65
+	max_zeit_ph1_rr
+	wert_04
+ZIELTEMP_STUFE_1_LE_BFS
+	zieltemp_st1_e65
+	zieltemp_st1_rr
+	wert_03
+	wert_04
+ZIELTEMP_STUFE_2_LE_BFS
+	zieltemp_st2_e65
+	zieltemp_st2_rr
+	wert_04
+ZIELTEMP_STUFE_3_LE_BFS
+	zieltemp_st3_e65
+	zieltemp_st3_rr
+	wert_04
+ABST_ENDT_VOR_PH_2_LE_BFS
+	abstand_endtemp_e65
+	abstand_endtemp_rr
+	wert_04
+MAX_ZEIT_PH_1_LE_BFS
+	max_zeit_ph1_e65
+	max_zeit_ph1_rr
+	wert_04
+ANST_SCHNELLH_PH_3_LE_BFS
+	max_zeit_ph1_e65
+	max_zeit_ph1_rr
+	wert_04
+MAX_PWM_SCHNELL_REGEL_BFS
+	max_pwm_schnell_regel_e65
+	max_pwm_schnell_regel_rr
+	wert_04
+MAX_PWM_RESTH_STEUER_BFS
+	max_pwm_resth_steuer_e65
+	max_pwm_resth_steuer_rr
+SA_KONFIG_KL_BFS
+	aktiv
+SA_KONFIG_AS_BFS
+	nicht_aktiv
+SA_KONFIG_LD_BFS
+	aktiv
+SA_KONFIG_SAL_BFS
+	aktiv
+FEH_MOTOR_BFS
+	nicht_aktiv
+FUNKTIONSVARIANTE
+	wert_02
+HEIZUNG_AN_AUS
+	aktiv
+MAX_PWM_PH_1_LE_BFS
+	max_pwm_ph1_e65
+	wert_03
+	wert_04
+EA_HILFE
+	aktiv
+HEIZUNG_TYP
+	wert_03
+KHV_HALL_BFS
+	aktiv
+KHV_MOTOR_BFS
+	aktiv
+KHV_WEG_VERZ
+	wert_00
+KUNDEN_MEMORY_BFS
+	aktiv
+LBV_HALL_BFS
+	nicht_aktiv
+LBV_MOTOR_BFS
+	nicht_aktiv
+LEHNENVER_KONTAKT
+	wert_00
+LKV_HALL_BFS
+	aktiv
+LKV_MOTOR_BFS
+	aktiv
+LNV_HALL_BFS
+	aktiv
+SHV_HALL_BFS
+	aktiv
+SLV_BLOCK_KENN_PARM_1_BFS
+	wert_03
+SLV_BLOCK_KENN_PARM_3_BFS
+	wert_03
+SLV_BLOCK_KENN_PARM_4_BFS
+	wert_03
+	wert_04
+SLV_BLOCK_KENN_PARM_5_BFS
+	wert_03
+	wert_04
+SLV_HALL_BFS
+	aktiv
+SNV_HALL_BFS
+	aktiv
+STV_HALL_BFS
+	aktiv
+STV_MOTOR_BFS
+	aktiv
+TIMEOUT_NACH_FEHLSPANNUNG
+	wert_01
+I_REGLERFAKTOR_BFS
+	wert_01
+KHV_BLOCK_KENN_PARM_1_BFS
+	wert_01
+KHV_BLOCK_KENN_PARM_3_BFS
+	wert_01
+KHV_BLOCK_KENN_PARM_4_BFS
+	wert_01
+KHV_BLOCK_KENN_PARM_5_BFS
+	wert_01
+KHV_SOFTBLOCK_BFS
+	wert_02
+LBV_SOFTBLOCK_BFS
+	wert_02
+LKV_SOFTBLOCK_BFS
+	wert_02
+LNV_BLOCK_KENN_PARM_1_BFS
+	wert_01
+LNV_BLOCK_KENN_PARM_3_BFS
+	wert_01
+LNV_BLOCK_KENN_PARM_4_BFS
+	wert_01
+LNV_BLOCK_KENN_PARM_5_BFS
+	wert_01
+LNV_SOFTBLOCK_BFS
+	wert_02
+P_REGLERFAKTOR_BFS
+	wert_01
+SHV_BLOCK_KENN_PARM_3_BFS
+	wert_01
+SHV_BLOCK_KENN_PARM_4_BFS
+	wert_01
+SHV_BLOCK_KENN_PARM_5_BFS
+	wert_01
+SHV_SOFTBLOCK_BFS
+	wert_02
+SLV_SOFTBLOCK_BFS
+	wert_02
+SNV_BLOCK_KENN_PARM_1_BFS
+	wert_01
+SNV_BLOCK_KENN_PARM_3_BFS
+	wert_01
+SNV_BLOCK_KENN_PARM_4_BFS
+	wert_01
+SNV_BLOCK_KENN_PARM_5_BFS
+	wert_01
+SNV_SOFTBLOCK_BFS
+	wert_02
+STV_SOFTBLOCK_BFS
+	wert_02
+REGLER_INIT_SCHNELLH_KI
+	wert_03
+	wert_04
+REGLER_INIT_SCHNELLH_LE
+	wert_02
+	wert_03
+NTC_GETAKTET
+	nicht_aktiv
+EA_HILFE_BED_BFS
+	wert_01
+FEH_SCHALTER
+	wert_00
+KHV_EINBAUHILFE
+	wert_01
+KOLLISION_FEH_MODE
+	wert_01
+LNV_MAX
+	wert_00
+MEM_RESTORE_PAUSE_FEH
+	wert_00
+MIN_T_RESTH_N_MIN_BFS
+	min_temp_resth_1min_e65
+	min_temp_resth_1min_rr
+MIN_T_SCHNELLH_N_MIN_BFS
+	mintemp_schnellh_1min_e65
+	mintemp_schnellh_1min_rr
+P1_SHV
+	wert_00
+P1_SLV
+	wert_00
+P1H_SHV
+	wert_00
+P2_SHV
+	wert_00
+P2_SLV
+	wert_00
+P2H_SLV
+	wert_00
+P3_SHV
+	wert_00
+P3_SLV
+	wert_00
+P4_SHV
+	wert_00
+P4_SLV
+	wert_00
+P5_SHV
+	wert_00
+P5_SLV
+	wert_00
+P8_SHV
+	wert_00
+P8_SLV
+	wert_00
+SLV_MINDESTVERSTELLWEG
+	wert_00
+SVS_KLEMMEND
+	wert_15
+ZEITFENSTER_FUER_MIN_T
+	wert_01
+ANSCHLUSS_KLEMME
+	wert_02
+BOTSCHAFT_OHNE_POSITION
+	wert_01
+HEIZUNG_NOTBETRIEB
+	nicht_aktiv
+NORMIEREN_SCHW
+	wert_01
+SCHWELLE_VON_VORNE
+	wert_01
+SOFTBLOCK_AUS_SCHW
+	wert_01
+SLV2FEH_UMSCHALTZEIT
+	wert_02
+GESAMTSCHIENENLAENGE_HALL
+	wert_02
+MAX_TOLERANZ_HALLWERTE
+	wert_01
+KHV_GRENZE_UNTEN
+	wert_00
+VERSTELL_SCHALTER_TYP_BFS
+	wert_05
+MOTORSTECKERMAPPING
+	wert_01
+KHV_DREHRICHTUNG_BFS
+	wert_01
