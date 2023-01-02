@@ -1,0 +1,287 @@
+AUT_SITZVERSTELLUNG
+	nicht_aktiv
+MAX_PWM_PH_1_KI_FAS
+	max_pwm_ph1_e65
+	wert_03
+	wert_04
+ZEIT_ST3_NACH_ST2
+	wert_10
+DEF_AUT_SITZVERSTELLUNG
+	nicht_aktiv
+MAX_PWM_PH_1_LE_FAS
+	max_pwm_ph1_e65
+	wert_03
+	wert_04
+ANST_SCHNELLH_PH_3_LE_FAS
+	max_zeit_ph1_e65
+	max_zeit_ph1_rr
+	wert_04
+ANST_SCHNELLH_PH_3_KI_FAS
+	max_zeit_ph1_e65
+	max_zeit_ph1_rr
+	wert_04
+MAX_PWM_RESTH_STEUER_FAS
+	max_pwm_resth_steuer_e65
+	max_pwm_resth_steuer_rr
+ZIELTEMP_STUFE_1_KI_FAS
+	zieltemp_st1_e65
+	zieltemp_st1_rr
+	wert_03
+	wert_04
+ZIELTEMP_STUFE_2_KI_FAS
+	zieltemp_st2_e65
+	zieltemp_st2_rr
+	wert_04
+	wert_06
+ZIELTEMP_STUFE_3_KI_FAS
+	zieltemp_st3_e65
+	zieltemp_st3_rr
+	wert_04
+	wert_06
+ABST_ENDT_VOR_PH_2_KI_FAS
+	abstand_endtemp_e65
+	abstand_endtemp_rr
+	wert_04
+MAX_ZEIT_PH_1_KI_FAS
+	max_zeit_ph1_e65
+	max_zeit_ph1_rr
+	wert_04
+MAX_PWM_SCHNELL_REGEL_FAS
+	max_pwm_schnell_regel_e65
+	max_pwm_schnell_regel_rr
+	wert_04
+ZIELTEMP_STUFE_1_LE_FAS
+	zieltemp_st1_e65
+	zieltemp_st1_rr
+	wert_03
+	wert_04
+ZIELTEMP_STUFE_2_LE_FAS
+	zieltemp_st2_e65
+	zieltemp_st2_rr
+	wert_04
+ZIELTEMP_STUFE_3_LE_FAS
+	zieltemp_st3_e65
+	zieltemp_st3_rr
+	wert_04
+ABST_ENDT_VOR_PH_2_LE_FAS
+	abstand_endtemp_e65
+	abstand_endtemp_rr
+	wert_04
+MAX_ZEIT_PH_1_LE_FAS
+	max_zeit_ph1_e65
+	max_zeit_ph1_rr
+	wert_04
+SA_KONFIG_KL_FAS
+	nicht_aktiv
+SA_KONFIG_AS_FAS
+	nicht_aktiv
+SA_KONFIG_LD_FAS
+	aktiv
+SA_KONFIG_SAL_FAS
+	aktiv
+FUNKTIONSVARIANTE
+	wert_02
+HEIZUNG_AN_AUS
+	aktiv
+EA_HILFE
+	aktiv
+HEIZUNG_TYP
+	wert_03
+KHV_WEG_VERZ
+	wert_00
+LEHNENVER_KONTAKT
+	wert_00
+TIMEOUT_NACH_FEHLSPANNUNG
+	wert_01
+CKM_BEH_AUSLOESE_FAS
+	wert_02
+FEH_MOTOR_FAS
+	nicht_aktiv
+KA30A_C_AUT_SITZV_1
+	nicht_aktiv
+KA30A_C_AUT_SITZV_2
+	nach_fb_entriegeln
+KA30A_C_AUT_SITZV_3
+	nicht_aktiv
+KA30A_C_AUT_SITZV_4
+	nicht_aktiv
+KA30A_D_AUT_SITZV
+	nicht_aktiv
+KA30A_S_AUT_SITZV
+	nicht_aktiv
+KHV_HALL_FAS
+	aktiv
+KHV_MOTOR_FAS
+	aktiv
+KUNDEN_MEMORY_FAS
+	aktiv
+LBV_HALL_FAS
+	aktiv
+LBV_MOTOR_FAS
+	aktiv
+LKV_HALL_FAS
+	aktiv
+LKV_MOTOR_FAS
+	aktiv
+LNV_HALL_FAS
+	aktiv
+SHV_HALL_FAS
+	aktiv
+SLV_BLOCK_KENN_PARM_1_FAS
+	wert_03
+SLV_BLOCK_KENN_PARM_3_FAS
+	wert_03
+SLV_BLOCK_KENN_PARM_4_FAS
+	wert_03
+	wert_04
+SLV_BLOCK_KENN_PARM_5_FAS
+	wert_03
+	wert_04
+SLV_HALL_FAS
+	aktiv
+SNV_HALL_FAS
+	aktiv
+STV_HALL_FAS
+	aktiv
+STV_MOTOR_FAS
+	aktiv
+I_REGLERFAKTOR_FAS
+	wert_01
+KHV_BLOCK_KENN_PARM_1_FAS
+	wert_01
+KHV_BLOCK_KENN_PARM_3_FAS
+	wert_01
+KHV_BLOCK_KENN_PARM_4_FAS
+	wert_01
+KHV_BLOCK_KENN_PARM_5_FAS
+	wert_01
+KHV_SOFTBLOCK_FAS
+	wert_02
+LBV_SOFTBLOCK_FAS
+	wert_02
+LKV_SOFTBLOCK_FAS
+	wert_02
+LNV_BLOCK_KENN_PARM_1_FAS
+	wert_01
+LNV_BLOCK_KENN_PARM_3_FAS
+	wert_01
+LNV_BLOCK_KENN_PARM_4_FAS
+	wert_01
+LNV_BLOCK_KENN_PARM_5_FAS
+	wert_01
+LNV_SOFTBLOCK_FAS
+	wert_02
+P_REGLERFAKTOR_FAS
+	wert_01
+SHV_BLOCK_KENN_PARM_3_FAS
+	wert_01
+SHV_BLOCK_KENN_PARM_4_FAS
+	wert_01
+SHV_BLOCK_KENN_PARM_5_FAS
+	wert_01
+SHV_SOFTBLOCK_FAS
+	wert_02
+SLV_SOFTBLOCK_FAS
+	wert_02
+SNV_BLOCK_KENN_PARM_1_FAS
+	wert_01
+SNV_BLOCK_KENN_PARM_3_FAS
+	wert_01
+SNV_BLOCK_KENN_PARM_4_FAS
+	wert_01
+SNV_BLOCK_KENN_PARM_5_FAS
+	wert_01
+SNV_SOFTBLOCK_FAS
+	wert_02
+STV_SOFTBLOCK_FAS
+	wert_02
+REGLER_INIT_SCHNELLH_KI
+	wert_03
+	wert_04
+REGLER_INIT_SCHNELLH_LE
+	wert_02
+	wert_03
+NTC_GETAKTET
+	nicht_aktiv
+FEH_SCHALTER
+	wert_00
+KHV_EINBAUHILFE
+	wert_01
+KOLLISION_FEH_MODE
+	wert_01
+LNV_MAX
+	wert_00
+MEM_RESTORE_PAUSE_FEH
+	wert_00
+P1_SHV
+	wert_00
+P1_SLV
+	wert_00
+P1H_SHV
+	wert_00
+P2_SHV
+	wert_00
+P2_SLV
+	wert_00
+P2H_SLV
+	wert_00
+P3_SHV
+	wert_00
+P3_SLV
+	wert_00
+P4_SHV
+	wert_00
+P4_SLV
+	wert_00
+P5_SHV
+	wert_00
+P5_SLV
+	wert_00
+P8_SHV
+	wert_00
+P8_SLV
+	wert_00
+SLV_MINDESTVERSTELLWEG
+	wert_00
+SVS_KLEMMEND
+	wert_15
+ZEITFENSTER_FUER_MIN_T
+	wert_01
+EA_AKT_EVENT_FAS
+	wert_01
+EA_HILFE_BED_FAS
+	wert_02
+MIN_T_RESTH_N_MIN_FAS
+	min_temp_resth_1min_e65
+	min_temp_resth_1min_rr
+MIN_T_SCHNELLH_N_MIN_FAS
+	mintemp_schnellh_1min_e65
+	mintemp_schnellh_1min_rr
+ANSCHLUSS_KLEMME
+	wert_02
+BOTSCHAFT_OHNE_POSITION
+	wert_01
+HEIZUNG_NOTBETRIEB
+	nicht_aktiv
+NORMIEREN_SCHW
+	wert_01
+SCHWELLE_VON_VORNE
+	wert_01
+SOFTBLOCK_AUS_SCHW
+	wert_01
+AIRBAG_POS
+	nicht_aktiv
+SLV2FEH_UMSCHALTZEIT
+	wert_02
+GESAMTSCHIENENLAENGE_HALL
+	wert_01
+MAX_TOLERANZ_HALLWERTE
+	wert_01
+KHV_GRENZE_UNTEN
+	wert_00
+VERSTELL_SCHALTER_TYP_FAS
+	wert_05
+KHV_DREHRICHTUNG_FAS
+	wert_01
+MOTORSTECKERMAPPING
+	wert_01
