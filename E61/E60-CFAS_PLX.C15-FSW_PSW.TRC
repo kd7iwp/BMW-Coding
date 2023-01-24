@@ -74,13 +74,13 @@ MAX_ZEIT_PH_1_LE_FAS
 SA_KONFIG_KL_FAS
 	aktiv
 SA_KONFIG_AS_FAS
-	aktiv
+	nicht_aktiv
 SA_KONFIG_LD_FAS
 	aktiv
 SA_KONFIG_SAL_FAS
 	aktiv
 FUNKTIONSVARIANTE
-	wert_01
+	wert_02
 HEIZUNG_AN_AUS
 	aktiv
 EA_HILFE
@@ -116,9 +116,9 @@ KHV_MOTOR_FAS
 KUNDEN_MEMORY_FAS
 	aktiv
 LBV_HALL_FAS
-	aktiv
+	nicht_aktiv
 LBV_MOTOR_FAS
-	aktiv
+	nicht_aktiv
 LKV_HALL_FAS
 	aktiv
 LKV_MOTOR_FAS
@@ -250,7 +250,7 @@ ZEITFENSTER_FUER_MIN_T
 EA_AKT_EVENT_FAS
 	wert_01
 EA_HILFE_BED_FAS
-	wert_01
+	wert_02
 MIN_T_RESTH_N_MIN_FAS
 	min_temp_resth_1min_e65
 	min_temp_resth_1min_rr
@@ -272,7 +272,7 @@ SOFTBLOCK_AUS_SCHW
 AIRBAG_POS
 	nicht_aktiv
 SLV2FEH_UMSCHALTZEIT
-	wert_01
+	wert_02
 GESAMTSCHIENENLAENGE_HALL
 	wert_02
 MAX_TOLERANZ_HALLWERTE
