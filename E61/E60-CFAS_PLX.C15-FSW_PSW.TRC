@@ -5,7 +5,7 @@ MAX_PWM_PH_1_KI_FAS
 	wert_03
 	wert_04
 ZEIT_ST3_NACH_ST2
-	nicht_aktiv
+	wert_10
 DEF_AUT_SITZVERSTELLUNG
 	nicht_aktiv
 MAX_PWM_PH_1_LE_FAS
@@ -74,13 +74,13 @@ MAX_ZEIT_PH_1_LE_FAS
 SA_KONFIG_KL_FAS
 	aktiv
 SA_KONFIG_AS_FAS
-	nicht_aktiv
+	aktiv
 SA_KONFIG_LD_FAS
 	aktiv
 SA_KONFIG_SAL_FAS
 	aktiv
 FUNKTIONSVARIANTE
-	wert_02
+	wert_01
 HEIZUNG_AN_AUS
 	aktiv
 EA_HILFE
@@ -98,13 +98,13 @@ CKM_BEH_AUSLOESE_FAS
 FEH_MOTOR_FAS
 	nicht_aktiv
 KA30A_C_AUT_SITZV_1
-	nach_entr_u_tuer_oeffnen
+	nicht_aktiv
 KA30A_C_AUT_SITZV_2
 	nicht_aktiv
 KA30A_C_AUT_SITZV_3
 	nicht_aktiv
 KA30A_C_AUT_SITZV_4
-	nach_entr_u_tuer_oeffnen
+	nicht_aktiv
 KA30A_D_AUT_SITZV
 	nicht_aktiv
 KA30A_S_AUT_SITZV
@@ -116,9 +116,9 @@ KHV_MOTOR_FAS
 KUNDEN_MEMORY_FAS
 	aktiv
 LBV_HALL_FAS
-	nicht_aktiv
+	aktiv
 LBV_MOTOR_FAS
-	nicht_aktiv
+	aktiv
 LKV_HALL_FAS
 	aktiv
 LKV_MOTOR_FAS
@@ -272,7 +272,7 @@ SOFTBLOCK_AUS_SCHW
 AIRBAG_POS
 	nicht_aktiv
 SLV2FEH_UMSCHALTZEIT
-	wert_02
+	wert_01
 GESAMTSCHIENENLAENGE_HALL
 	wert_02
 MAX_TOLERANZ_HALLWERTE
