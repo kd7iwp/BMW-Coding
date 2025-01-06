@@ -1,7 +1,10 @@
 # BMW-Coding
 Backups and changelog of my BMWs as I code changes and retrofit features.
 
-# E46 - 2001 325i
+# i3S - 2019
+* Trying to get the anti-dazzle headlight feature working, only some partial success
+
+# E46 - 2001 325i (Sold)
 * 5 speed manual transmission
 * Added OBC turn signal stock
 
