@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<faList>
+  <id>
+    <comment />
+    <ns1:fa xmlns:ns1="http://bmw.com/2005/psdz.data.fa">
+      <ns1:header createdBy="BimmerUtility" date="2025-01-12" time="19:38:55" vinLong="WBY8P8C50K7D75600" />
+      <ns1:standardFA colourCode="0B85" faVersion="3" fabricCode="MANX" series="I001" timeCriteria="0319" typeKey="8P83">
+        <ns1:eCodes>
+          <ns1:eCode>A020</ns1:eCode>
+          <ns1:eCode>LEDE</ns1:eCode>
+        </ns1:eCodes>
+        <ns1:saCodes>
+          <ns1:saCode>249</ns1:saCode>
+          <ns1:saCode>26K</ns1:saCode>
+          <ns1:saCode>2VC</ns1:saCode>
+          <ns1:saCode>302</ns1:saCode>
+          <ns1:saCode>319</ns1:saCode>
+          <ns1:saCode>322</ns1:saCode>
+          <ns1:saCode>3AG</ns1:saCode>
+          <ns1:saCode>423</ns1:saCode>
+          <ns1:saCode>430</ns1:saCode>
+          <ns1:saCode>442</ns1:saCode>
+          <ns1:saCode>473</ns1:saCode>
+          <ns1:saCode>493</ns1:saCode>
+          <ns1:saCode>494</ns1:saCode>
+          <ns1:saCode>4EV</ns1:saCode>
+          <ns1:saCode>4U7</ns1:saCode>
+          <ns1:saCode>4U8</ns1:saCode>
+          <ns1:saCode>508</ns1:saCode>
+          <ns1:saCode>521</ns1:saCode>
+          <ns1:saCode>534</ns1:saCode>
+          <ns1:saCode>544</ns1:saCode>
+          <ns1:saCode>548</ns1:saCode>
+          <ns1:saCode>570</ns1:saCode>
+          <ns1:saCode>5A4</ns1:saCode>
+          <ns1:saCode>5AC</ns1:saCode>
+          <ns1:saCode>5AP</ns1:saCode>
+          <ns1:saCode>5AT</ns1:saCode>
+          <ns1:saCode>609</ns1:saCode>
+          <ns1:saCode>645</ns1:saCode>
+          <ns1:saCode>655</ns1:saCode>
+          <ns1:saCode>674</ns1:saCode>
+          <ns1:saCode>6AC</ns1:saCode>
+          <ns1:saCode>6AE</ns1:saCode>
+          <ns1:saCode>6AK</ns1:saCode>
+          <ns1:saCode>6AM</ns1:saCode>
+          <ns1:saCode>6AN</ns1:saCode>
+          <ns1:saCode>6AP</ns1:saCode>
+          <ns1:saCode>6CP</ns1:saCode>
+          <ns1:saCode>6NW</ns1:saCode>
+          <ns1:saCode>6WD</ns1:saCode>
+          <ns1:saCode>7KZ</ns1:saCode>
+          <ns1:saCode>7S9</ns1:saCode>
+          <ns1:saCode>838</ns1:saCode>
+          <ns1:saCode>845</ns1:saCode>
+          <ns1:saCode>853</ns1:saCode>
+          <ns1:saCode>8BK</ns1:saCode>
+          <ns1:saCode>8KY</ns1:saCode>
+          <ns1:saCode>8R9</ns1:saCode>
+          <ns1:saCode>8S4</ns1:saCode>
+          <ns1:saCode>8SM</ns1:saCode>
+          <ns1:saCode>925</ns1:saCode>
+          <ns1:saCode>992</ns1:saCode>
+        </ns1:saCodes>
+        <ns1:hoCodes />
+      </ns1:standardFA>
+    </ns1:fa>
+  </id>
+</faList>
